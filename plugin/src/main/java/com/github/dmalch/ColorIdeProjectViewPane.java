@@ -38,7 +38,5 @@ public class ColorIdeProjectViewPane extends ProjectViewPane {
         tree.setBackground(globalScheme.getColor(ColorKey.find("NOTIFICATION_BACKGROUND")));
         tree.setForeground(globalScheme.getDefaultForeground());
         return tree;
-
-    public static
     }
 }
