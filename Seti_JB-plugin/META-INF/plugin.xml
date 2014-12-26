@@ -1,7 +1,7 @@
 <idea-plugin version="2">
-    <name>Color Tree</name>
+    <name>Seti_JB</name>
 
-    <id>ColorTree</id>
+    <id>Seti_JB</id>
 
     <description>Applies editor background color to project tree view</description>
 

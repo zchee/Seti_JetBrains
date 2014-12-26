@@ -9,7 +9,10 @@ import com.intellij.openapi.project.Project;
 import org.jetbrains.annotations.NotNull;
 
 import javax.swing.*;
+import javax.swing.plaf.ColorUIResource;
 import javax.swing.tree.DefaultTreeModel;
+
+import com.intellij.ide.ui.laf.DarculaMetalTheme;
 
 public class ColorIdeProjectViewPane extends ProjectViewPane {
 
@@ -39,3 +42,4 @@ public class ColorIdeProjectViewPane extends ProjectViewPane {
         return tree;
     }
 }
+
