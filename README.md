@@ -13,8 +13,8 @@ Tentatively
 ### js
 ![](https://raw.githubusercontent.com/zchee/Seti_JetBrains/master/screenshot/js.png)
 
-### scss
-![](https://raw.githubusercontent.com/zchee/Seti_JetBrains/master/screenshot/scss.png)
+### sass
+![](https://raw.githubusercontent.com/zchee/Seti_JetBrains/master/screenshot/sass.png)
 
 ## TODO
 - [ ] Remove the gutter color and see how it looks.
