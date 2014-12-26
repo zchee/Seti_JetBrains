@@ -18,7 +18,6 @@ public class ColorIdeProjectViewPane extends ProjectViewPane {
     public ColorIdeProjectViewPane(Project project) {
         super(project);
     }
-
     @NotNull
     @Override
     public String getId() {
