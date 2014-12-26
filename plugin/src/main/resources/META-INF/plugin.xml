@@ -1,0 +1,27 @@
+<idea-plugin version="2">
+    <name>Color Tree</name>
+
+    <id>ColorTree</id>
+
+    <description>Applies editor background color to project tree view</description>
+
+    <change-notes>Use default text color for text in tree</change-notes>
+
+    <version>1.0</version>
+
+    <idea-version since-build="111.69"/>
+
+    <vendor url="https://github.com/dmalch/ColorIde">Dmitry Malchikov</vendor>
+
+    <depends>com.intellij.modules.lang</depends>
+
+    <project-components>
+        <component>
+            <implementation-class>com.github.dmalch.ColorIdeProjectComponent</implementation-class>
+        </component>
+    </project-components>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <projectViewPane implementation="com.github.dmalch.ColorIdeProjectViewPane"/>
+    </extensions>
+</idea-plugin>
