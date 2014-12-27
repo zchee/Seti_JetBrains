@@ -1,0 +1,5 @@
+product:
+  name: RubyMine
+  version: 4
+  vendor: JetBrains
+  url: "http://jetbrains.com/ruby"
