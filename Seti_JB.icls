@@ -1,12 +1,12 @@
-<scheme name="Seti_UX" version="124" parent_scheme="Default">
+<scheme name="Seti_JB" version="124" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="EDITOR_FONT_NAME" value="Kibitaki" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
-    <option name="CARET_COLOR" value="bbbbbb" />
+    <option name="CARET_COLOR" value="fed02e" />
     <option name="CARET_ROW_COLOR" value="101112" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b2b2b" />
     <option name="FILESTATUS_ADDED" value="629755" />
@@ -1477,6 +1477,42 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="RDOC_DIRECTIVE">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="RDOC_EMAIL">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="RDOC_HEADINGS">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="RDOC_IDENTIFIER">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="RDOC_KEYWORD">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="RDOC_URL">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="REGEXP.BRACES">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
@@ -1636,7 +1672,17 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="SCOPE_KEY_Darcula">
+      <value>
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="SCOPE_KEY_Default">
+      <value>
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="SCOPE_KEY_Demos">
       <value>
         <option name="EFFECT_TYPE" value="0" />
       </value>
