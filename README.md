@@ -27,7 +27,7 @@ Tentatively
 Replace `idea.jar` and `icons.jar` to
 
 - Mac : `/Applications/IntelliJ Idea 14.app/Contents/lib`
-- Windows : `Program Files\JetBrains\IntelliJ Idea\lib`
+- Windows : `C:\Program Files (x86)\JetBrains\IntelliJ Idea\lib`
 
 in [IntelliJIdea14](https://github.com/zchee/Seti_JetBrains/tree/master/IntelliJIdea14)
 
@@ -35,7 +35,7 @@ in [IntelliJIdea14](https://github.com/zchee/Seti_JetBrains/tree/master/IntelliJ
 Replace `phpstorm.jar` and `icons.jar` to
 
 - Mac : `/Applications/PhpStorm.app/Contents/lib`
-- Windows : `Program Files\JetBrains\PhpStorm 8.0.2\lib`
+- Windows : `C:\Program Files (x86)\JetBrains\PhpStorm 8.0.2\lib`
 
 in [WebIde80](https://github.com/zchee/Seti_JetBrains/tree/master/WebIde80)
 
