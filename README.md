@@ -24,7 +24,7 @@ Tentatively
 ## Installation
 
 ### IntelliJ Idea
-Copy `idea.jar` and `icons.jar` to
+Replace `idea.jar` and `icons.jar` to
 
 - Mac : `/Applications/IntelliJ Idea 14.app/Contents/lib`
 - Windows : `Program Files\JetBrains\IntelliJ Idea\lib`
@@ -32,12 +32,20 @@ Copy `idea.jar` and `icons.jar` to
 in [IntelliJIdea14](https://github.com/zchee/Seti_JetBrains/tree/master/IntelliJIdea14)
 
 ### PhpStorm
-Copy `phpstorm.jar` and `icons.jar` to
+Replace `phpstorm.jar` and `icons.jar` to
 
 - Mac : `/Applications/PhpStorm.app/Contents/lib`
 - Windows : `Program Files\JetBrains\PhpStorm 8.0.2\lib`
 
 in [WebIde80](https://github.com/zchee/Seti_JetBrains/tree/master/WebIde80)
+
+### Third party plugins
+Replace to
+
+- Mac : `/Applications/IntelliJ.app/Contents/plugins`
+- Windows : `Program Files\JetBrains\App x.x.x\plugins`
+
+in [plugins](https://github.com/zchee/Seti_JetBrains/tree/master/plugins)
 
 
 ## Status
