@@ -12,38 +12,79 @@ Tentatively
 
 
 ## Enveronment
+### Platform
+- Mac
+- Windows
+### Application
 - IntelliJ Idea 14
 - PhpStorm 8
 
 
 ## jar Origin Application Version
+### Mac
 - IntelliJ Idea 14 EAP (build 139.872)
 - PhpStorm 8 EAP (build 139.873)
+
+### Windwos
+- IntelliJ Idea 14 EAP (build 139.872.1)
+- PhpStorm 8.0.2
 
 
 ## Installation
 
 ### IntelliJ Idea
+#### Mac
+Rename `idea-mac.jar` to `idea.jar`.
+
 Replace `idea.jar` and `icons.jar` to
 
-- Mac : `/Applications/IntelliJ Idea 14.app/Contents/lib`
-- Windows : `C:\Program Files (x86)\JetBrains\IntelliJ Idea\lib`
+```
+/Applications/IntelliJ Idea 14.app/Contents/lib/
+```
 
-in [IntelliJIdea14](https://github.com/zchee/Seti_JetBrains/tree/master/IntelliJIdea14)
+in [IntelliJIdea14/Mac](https://github.com/zchee/Seti_JetBrains/tree/master/IntelliJIdea14/Mac)
+#### Windows
+Rename `idea-windows.jar` to `idea.jar`.
+
+Replace `idea.jar` and `icons.jar` to
+
+```
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA 139.872.1\lib\
+```
+
+in [IntelliJIdea14/Windows](https://github.com/zchee/Seti_JetBrains/tree/master/IntelliJIdea14/Windows)
 
 ### PhpStorm
+#### Mac
+Rename `phpstorm-mac.jar` to `idea.jar`.
+
 Replace `phpstorm.jar` and `icons.jar` to
 
-- Mac : `/Applications/PhpStorm.app/Contents/lib`
-- Windows : `C:\Program Files (x86)\JetBrains\PhpStorm 8.0.2\lib`
+```
+/Applications/IntelliJ Idea 14.app/Contents/lib/
+```
 
-in [WebIde80](https://github.com/zchee/Seti_JetBrains/tree/master/WebIde80)
+in [IntelliJIdea14/Mac](https://github.com/zchee/Seti_JetBrains/tree/master/WebIde80/Mac)
+#### Windows
+Rename `phpstorm-windows.jar` to `idea.jar`.
 
+Replace `idea.jar` and `icons.jar` to
+
+```
+C:\Program Files (x86)\JetBrains\PhpStorm 8.0.2\lib\
+```
+
+in [IntelliJIdea14/Windows](https://github.com/zchee/Seti_JetBrains/tree/master/WebIde80/Windows)
 ### Third party plugins
 Replace to
 
-- Mac : `/Applications/IntelliJ.app/Contents/plugins`
-- Windows : `Program Files\JetBrains\App x.x.x\plugins`
+#### IntelliJ Idea
+- Mac : `/Applications/IntelliJ Idea 14.app/Contents/plugins`
+- Windows : `Program Files\JetBrains\IntelliJ IDEA 139.872.1\plugins`
+
+#### PhpStorm
+- Mac : `/Applications/PhpStorm.app/Contents/plugins`
+- Windows : `Program Files\JetBrains\PhpStorm 8.0.2\plugins`
 
 in [plugins](https://github.com/zchee/Seti_JetBrains/tree/master/plugins)
 
