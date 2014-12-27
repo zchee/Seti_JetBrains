@@ -15,66 +15,41 @@ Tentatively
 ### Platform
 - Mac
 - Windows
+
 ### Application
 - IntelliJ Idea 14
 - PhpStorm 8
 
+## Installation of Seti_JB syntax
 
-## jar Origin Application Version
-### Mac
-- IntelliJ Idea 14 EAP (build 139.872)
-- PhpStorm 8 EAP (build 139.873)
+Move [Seti_JB.icls](https://github.com/zchee/Seti_JetBrains/blob/master/Seti_JB.icls) to
 
-### Windwos
-- IntelliJ Idea 14 EAP (build 139.872.1)
-- PhpStorm 8.0.2
+- Mac : `~/Library/Application Support/IntelliJIdea14/` or `~/Library/Application Support/WebIde80/`
+- Windows : `~/.IntelliJIdea14/config/colors` or `~/.WebIde80/config/colors`
 
 
-## Installation
+## Installation of Seti_JB theme
 
 ### IntelliJ Idea
-#### Mac
-Rename `idea-mac.jar` to `idea.jar`.
+1. Select your platform `idea-xxx.jar` and `icons-xxx.jar` in [IntelliJIdea14](https://github.com/zchee/Seti_JetBrains/tree/master/IntelliJIdea14/).
 
-Replace `idea.jar` and `icons.jar` to
+2. Rename to `idea.jar` and `icons.jar`.
 
-```
-/Applications/IntelliJ Idea 14.app/Contents/lib/
-```
+3. Replace `idea.jar` and `icons.jar` to
 
-in [IntelliJIdea14/Mac](https://github.com/zchee/Seti_JetBrains/tree/master/IntelliJIdea14/Mac)
-#### Windows
-Rename `idea-windows.jar` to `idea.jar`.
-
-Replace `idea.jar` and `icons.jar` to
-
-```
-C:\Program Files (x86)\JetBrains\IntelliJ IDEA 139.872.1\lib\
-```
-
-in [IntelliJIdea14/Windows](https://github.com/zchee/Seti_JetBrains/tree/master/IntelliJIdea14/Windows)
+- Mac : `/Applications/IntelliJ Idea 14.app/Contents/lib/`
+- Windows : `C:\Program Files (x86)\JetBrains\IntelliJ IDEA 139.872.1\lib\`
 
 ### PhpStorm
-#### Mac
-Rename `phpstorm-mac.jar` to `idea.jar`.
+1. Select your platform `phpstorm-xxx.jar` and `icons-xxx.jar` in [WebIde80](https://github.com/zchee/Seti_JetBrains/tree/master/WebIde80/).
 
-Replace `phpstorm.jar` and `icons.jar` to
+2. Rename to `phpstorm.jar` and `icons.jar`.
 
-```
-/Applications/IntelliJ Idea 14.app/Contents/lib/
-```
+3. Replace `phpstorm.jar` and `icons.jar` to
 
-in [IntelliJIdea14/Mac](https://github.com/zchee/Seti_JetBrains/tree/master/WebIde80/Mac)
-#### Windows
-Rename `phpstorm-windows.jar` to `idea.jar`.
+- Mac : `/Applications/PhpStorm.app/Contents/lib/`
+- Windows : `C:\Program Files (x86)\JetBrains\PhpStorm 8.0.2\lib\`
 
-Replace `idea.jar` and `icons.jar` to
-
-```
-C:\Program Files (x86)\JetBrains\PhpStorm 8.0.2\lib\
-```
-
-in [IntelliJIdea14/Windows](https://github.com/zchee/Seti_JetBrains/tree/master/WebIde80/Windows)
 ### Third party plugins
 Replace to
 
@@ -120,6 +95,16 @@ TypeScript | No | No | -
 Velocity | No | No | -
 XML | No | No | -
 Yaml | No | No | -
+
+
+## jar Origin Application Version
+### Mac
+- IntelliJ Idea 14 EAP (build 139.872)
+- PhpStorm 8 EAP (build 139.873)
+
+### Windowos
+- IntelliJ Idea 14 EAP (build 139.872.1)
+- PhpStorm 8.0.2
 
 
 ## TODO
