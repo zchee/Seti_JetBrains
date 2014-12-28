@@ -1,1 +1,7 @@
-plugin/out/
+!plugins/**/*.jar
+**/*-master.jar
+_tmp/
+IntellijIdea14/*/
+plugins/**/
+RubyMine70/*/
+WebIde80/*/
