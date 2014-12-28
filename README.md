@@ -22,7 +22,7 @@ Tentatively
 
 ## Installation of Seti_JB syntax
 
-Move [Seti_JB.icls](https://github.com/zchee/Seti_JetBrains/blob/master/Seti_JB.icls) to
+Move Seti_JB.icls to
 
 - Mac : `~/Library/Application Support/IntelliJIdea14/` or `~/Library/Application Support/WebIde80/`
 - Windows : `~/.IntelliJIdea14/config/colors` or `~/.WebIde80/config/colors`
@@ -31,7 +31,7 @@ Move [Seti_JB.icls](https://github.com/zchee/Seti_JetBrains/blob/master/Seti_JB.
 ## Installation of Seti_JB theme
 
 ### IntelliJ Idea
-1. Select your platform `idea-xxx.jar` and `icons-xxx.jar` in [IntelliJIdea14](https://github.com/zchee/Seti_JetBrains/tree/master/IntelliJIdea14/).
+1. Select your platform `idea-xxx.jar` and `icons-xxx.jar`.
 
 2. Rename to `idea.jar` and `icons.jar`.
 
@@ -41,7 +41,7 @@ Move [Seti_JB.icls](https://github.com/zchee/Seti_JetBrains/blob/master/Seti_JB.
 - Windows : `C:\Program Files (x86)\JetBrains\IntelliJ IDEA xxx\lib\`
 
 ### PhpStorm
-1. Select your platform `phpstorm-xxx.jar` and `icons-xxx.jar` in [WebIde80](https://github.com/zchee/Seti_JetBrains/tree/master/WebIde80/).
+1. Select your platform `phpstorm-xxx.jar` and `icons-xxx.jar`.
 
 2. Rename to `phpstorm.jar` and `icons.jar`.
 
@@ -64,7 +64,7 @@ Replace to
 in [plugins](https://github.com/zchee/Seti_JetBrains/tree/master/plugins)
 
 ### Important
-You must replace this files or move original files in another folder, don't rename them :) its not working, and idea&storm will use renamed files in lib folders.
+You must replace this files or move original files in another folder, in other way ide will use renamed files in lib folders.
 
 ## Status
 | Language/Section | Syntax Supported | Icon Supported | Note |
