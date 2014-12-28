@@ -11,7 +11,7 @@ Tentatively
 ![](https://raw.githubusercontent.com/zchee/Seti_JetBrains/master/screenshot/all.png)
 
 
-## Enveronment
+## Environment
 ### Platform
 - Mac
 - Windows
@@ -22,7 +22,7 @@ Tentatively
 
 ## Installation of Seti_JB syntax
 
-Move [Seti_JB.icls](https://github.com/zchee/Seti_JetBrains/blob/master/Seti_JB.icls) to
+Move Seti_JB.icls to
 
 - Mac : `~/Library/Application Support/IntelliJIdea14/` or `~/Library/Application Support/WebIde80/`
 - Windows : `~/.IntelliJIdea14/config/colors` or `~/.WebIde80/config/colors`
@@ -31,38 +31,40 @@ Move [Seti_JB.icls](https://github.com/zchee/Seti_JetBrains/blob/master/Seti_JB.
 ## Installation of Seti_JB theme
 
 ### IntelliJ Idea
-1. Select your platform `idea-xxx.jar` and `icons-xxx.jar` in [IntelliJIdea14](https://github.com/zchee/Seti_JetBrains/tree/master/IntelliJIdea14/).
+1. Select your platform `idea-xxx.jar` and `icons-xxx.jar`.
 
 2. Rename to `idea.jar` and `icons.jar`.
 
 3. Replace `idea.jar` and `icons.jar` to
 
 - Mac : `/Applications/IntelliJ Idea 14.app/Contents/lib/`
-- Windows : `C:\Program Files (x86)\JetBrains\IntelliJ IDEA 139.872.1\lib\`
+- Windows : `C:\Program Files (x86)\JetBrains\IntelliJ IDEA xxx\lib\`
 
 ### PhpStorm
-1. Select your platform `phpstorm-xxx.jar` and `icons-xxx.jar` in [WebIde80](https://github.com/zchee/Seti_JetBrains/tree/master/WebIde80/).
+1. Select your platform `phpstorm-xxx.jar` and `icons-xxx.jar`.
 
 2. Rename to `phpstorm.jar` and `icons.jar`.
 
 3. Replace `phpstorm.jar` and `icons.jar` to
 
 - Mac : `/Applications/PhpStorm.app/Contents/lib/`
-- Windows : `C:\Program Files (x86)\JetBrains\PhpStorm 8.0.2\lib\`
+- Windows : `C:\Program Files (x86)\JetBrains\PhpStorm xxx\lib\`
 
 ### Third party plugins
 Replace to
 
 #### IntelliJ Idea
 - Mac : `/Applications/IntelliJ Idea 14.app/Contents/plugins`
-- Windows : `Program Files\JetBrains\IntelliJ IDEA 139.872.1\plugins`
+- Windows : `Program Files\JetBrains\IntelliJ IDEA xxx\plugins`
 
 #### PhpStorm
 - Mac : `/Applications/PhpStorm.app/Contents/plugins`
-- Windows : `Program Files\JetBrains\PhpStorm 8.0.2\plugins`
+- Windows : `Program Files\JetBrains\PhpStorm xxx\plugins`
 
 in [plugins](https://github.com/zchee/Seti_JetBrains/tree/master/plugins)
 
+### Important
+You must replace this files or move original files in another folder, in other way ide will use renamed files in lib folders.
 
 ## Status
 | Language/Section | Syntax Supported | Icon Supported | Note |
