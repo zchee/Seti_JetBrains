@@ -1,32 +1,49 @@
 Debug
 ====
-In order to know the position of the color of the property, you have set the appropriate color for debugging.  
-If you find, I want a issue with the screen shot.
+In order to know the position of the color of the property, I've set the appropriate color for debugging.  
+If you find the color of the bug , I want a issue with the screen shot.
+
+- Code text : `Found the position of the property`
+- Bold text : **During testing**
+
+# Use the debug color chart
+Color | Hex |
+----- | ------ |
+Red | ff0000
+Yellow | ffff00
+Blue | 0000ff
+Aqua | 00ffff
+Fuchsia | ff00ff
+Lime | 00ff00
+
+
 
 # darcula
+Affect overall.
+
 Properties | Color | Notice |
 ---------- | ----- | ------ |
-darcula.background | 1e2326 | global background
-darcula.textBackground | 00ff00 | global text background
-darcula.foreground | d8f6ff | global foreground
-darcula.textForeground | d8f6ff | global text foreground
-darcula.caretForeground | d8f6ff | global caret foreground
-darcula.inactiveBackground | 3c3f41 | global in active background
-darcula.selectionForeground | ffffff | global selection background
-darcula.selectionBackgroundInactive | 1B1C1D | global selection background in active
-darcula.selectionForegroundInactive | d8f6ff | global selection foreground in active
-darcula.selectionInactiveBackground | 1B1C1D | global selection in active background
-darcula.selectionInactiveForeground | d8f6ff | global selection in active foreground
+darcula.background | `1e2326` | background
+darcula.textBackground | **00ff00** | _text_ background
+darcula.foreground | `d8f6ff` | foreground
+darcula.textForeground | `d8f6ff` | _text_ foreground
+darcula.caretForeground | `d8f6ff` | caret foreground
+darcula.inactiveBackground | 3c3f41 | _in active_ background
+darcula.selectionForeground | ffffff | selection background
+darcula.selectionBackgroundInactive | **1B1C1D** | selection background _in active_
+darcula.selectionForegroundInactive | `d8f6ff` | selection foreground _in active_
+darcula.selectionInactiveBackground | **1B1C1D** | selection _active_ background
+darcula.selectionInactiveForeground | `d8f6ff` | selection _active_ foreground
 
 # global
 Properties | Color | Notice |
 ---------- | ----- | ------ |
-control | 151718 |
-window | 101112 |
-text | d8f6ff |
+control | `151718` |
+window | `101112` |
+text | `d8f6ff` |
 textInactiveText | 999999 |
-textText | d8f6ff |
-infoText | d8f6ff |
+textText | `d8f6ff` |
+infoText | `d8f6ff` |
 FormattedTextField.background | 45494A |
 TextArea.background | 45494A |
 
@@ -39,12 +56,20 @@ Hyperlink.linkColor | 589df6 |
 # Pane
 Properties | Color | Notice |
 ---------- | ----- | ------ |
-Panel.background | 1e2326 |
+Panel.background | `1e2326` |
 
 # OptionPane
 Properties | Color | Notice |
 ---------- | ----- | ------ |
-OptionPane.messageForeground | d8f6ff |
+OptionPane.messageForeground | `d8f6ff` |
+
+# EditorPane
+Properties | Color | Notice |
+---------- | ----- | ------ |
+EditorPane.inactiveBackground | `101112` |
+EditorPane.inactiveForeground | `d8f6ff` |
+EditorPaneUI | com.intellij.ide.ui.laf.darcula.ui.DarculaEditorPaneUI |
+EditorPane.background | ffffff |
 
 # Menu
 Properties | Color | Notice |
@@ -60,14 +85,6 @@ MenuBar.shadow | 3c3f41 |
 MenuBar.darcula.borderColor | bb0000 |
 MenuBar.darcula.borderShadowColor | 282828 |
 
-# EditorPane
-Properties | Color | Notice |
----------- | ----- | ------ |
-EditorPane.inactiveBackground | 101112 |
-EditorPane.inactiveForeground | d8f6ff |
-EditorPaneUI | com.intellij.ide.ui.laf.darcula.ui.DarculaEditorPaneUI |
-EditorPane.background | ffffff |
-
 # ScrollBarUI
 Properties | Color | Notice |
 ---------- | ----- | ------ |
@@ -79,21 +96,24 @@ Properties | Color | Notice |
 Label.disabledForeground | 777777 |
 
 # Table
+e.g.  
+`Preferences > Appearance & Behavior > Notifications`
+
 Properties | Color | Notice |
 ---------- | ----- | ------ |
 TableHeaderUI | com.intellij.ide.ui.laf.darcula.DarculaTableHeaderUI |
 Table.gridColor | 2c2c2c |
 Table.ascendingSortIcon | AllIcons.General.SplitUp |
 Table.descendingSortIcon | AllIcons.General.SplitDown |
-Table.background | 343738 |
+Table.background | `343738` |
 Table.cellNoFocusBorder | 0,4,0,4 |
 Table.focusSelectedCellHighlightBorder | com.intellij.ide.ui.laf.darcula.DarculaTableSelectedCellHighlightBorder |
-TableHeader.cellBorder | com.intellij.ide.ui.laf.darcula.DarculaTableHeaderBorder | just to suppress border painters
+TableHeader.cellBorder | com.intellij.ide.ui.laf.darcula.DarculaTableHeaderBorder |
 
 # Focus
 Properties | Color | Notice |
 ---------- | ----- | ------ |
-Focus.color | ff0000 |
+Focus.color | **ff0000** |
 
 # RadioButton
 Properties | Color | Notice |
@@ -125,9 +145,12 @@ Properties | Color | Notice |
 Separator.foreground | 2d2d2d |
 
 # TextFiled, TextArea
+e.g.  
+- Search Field
+
 Properties | Color | Notice |
 ---------- | ----- | ------ |
-TextField.background | 101112 | Search Field
+TextField.background | `101112` |
 TextFieldUI | com.intellij.ide.ui.laf.darcula.ui.DarculaTextFieldUI |
 TextField.border | com.intellij.ide.ui.laf.darcula.ui.DarculaTextBorder |
 TextField.darcula.search.icon | /com/intellij/ide/ui/laf/darcula/icons/search.png |
@@ -183,6 +206,8 @@ CheckBox.darcula.focused.backgroundColor2 | 4b4b4b |
 CheckBox.darcula.focused.backgroundColor2.selected | 3B98FB |
 
 # ComboBox
+In other words, Pulldown box.
+
 Properties | Color | Notice |
 ---------- | ----- | ------ |
 ComboBoxUI | com.intellij.ide.ui.laf.darcula.ui.DarculaComboBoxUI |
@@ -246,12 +271,15 @@ Spinner.darcula.enabledButtonColor | 6e9bd5 |
 Spinner.darcula.disabledButtonColor | e8e8e8 |
 
 # Tree
+e.g.  
+`Preferences > Appearance & Behavior > Menus and Toolbars`
+
 Properties | Color | Notice |
 ---------- | ----- | ------ |
 TreeUI | com.intellij.ide.ui.laf.darcula.ui.DarculaTreeUI |
-Tree.background | 101112 |
+Tree.background | `101112` |
 Tree.paintLines | false |
-Tree.textBackground | 151718 |
+Tree.textBackground | `151718` |
 Tree.selectionBorderColor | 2f65ca |
 Tree.collapsedIcon | AllIcons.Mac.Tree_white_right_arrow |
 Tree.expandedIcon | AllIcons.Mac.Tree_white_down_arrow |
@@ -259,7 +287,7 @@ Tree.expandedIcon | AllIcons.Mac.Tree_white_down_arrow |
 # List
 Properties | Color | Notice |
 ---------- | ----- | ------ |
-List.background | 151718 |
+List.background | `151718` |
 
 # FileView
 Properties | Color | Notice |
