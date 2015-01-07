@@ -16,14 +16,12 @@ Aqua | 00ffff
 Fuchsia | ff00ff
 Lime | 00ff00
 
-
-
 # darcula
 Affect overall.
 
 Properties | Color | Notice |
 ---------- | ----- | ------ |
-darcula.background | `1e2326` | background
+darcula.background | `0e1112` | background
 darcula.textBackground | **00ff00** | _text_ background
 darcula.foreground | `d8f6ff` | foreground
 darcula.textForeground | `d8f6ff` | _text_ foreground
@@ -56,7 +54,7 @@ Hyperlink.linkColor | 589df6 |
 # Pane
 Properties | Color | Notice |
 ---------- | ----- | ------ |
-Panel.background | `1e2326` |
+Panel.background | `0e1112` |
 
 # OptionPane
 Properties | Color | Notice |
