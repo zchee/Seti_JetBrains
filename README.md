@@ -1,85 +1,104 @@
 Seti_JetBrains
 ==============
 
-[Seti_UI](https://github.com/ctf0/Seti_ST3) port for JetBrains IDE.
+[Seti_UI](https://github.com/ctf0/Seti_ST3) port for JetBrains IDE.  
 And Hacking `Darcula` Theme.
 
+# Table of Contents
+- [Screenshot](#screenshot)
+- [Environment](#environment)
+	- [Platform](#platform)
+	- [Application](#application)
+- [Installation of Seti_JB syntax](#installation-of-seti_jb-syntax)
+- [Installation of Seti_JB theme](#installation-of-seti_jb-theme)
+	- [IntelliJ Idea](#intellij-idea)
+	- [PhpStorm](#phpstorm)
+	- [Third party plugins](#third-party-plugins)
+		- [IntelliJ Idea](#intellij-idea)
+		- [PhpStorm](#phpstorm)
+- [Important](#important)
+- [Status](#status)
+- [jar Origin Application Version](#jar-origin-application-version)
+	- [Mac](#mac)
+	- [Windowos](#windowos)
+- [TODO](#todo)
+- [CONTRIBUTE](#contribute)
+- [Credits](#credits)
 
-## Screenshot
+# Screenshot
 Tentatively
 
 ![](https://raw.githubusercontent.com/zchee/Seti_JetBrains/master/screenshot/all.png)
 
 
-## Environment
-### Platform
+# Environment
+## Platform
 - Mac
 - Windows
 
-### Application
+## Application
 - IntelliJ Idea 14
 - PhpStorm 8
 
-## Installation of Seti_JB syntax
+# Installation of Seti_JB syntax
 
-Move Seti_JB.icls to
+Move [Seti_JB.icls](syntax/Seti_JB.icls) to
 
-| Platform | Folder path |
-| -------- | ----------- |
+Platform | Folder path
+-------- | -----------
 Mac | `~/Library/Preferences/IntelliJIdea14/colors` or `~/Library/Preferences/WebIde80/colors`
 Windows | `~/.IntelliJIdea14/config/colors` or `~/.WebIde80/config/colors`
 
 
-## Installation of Seti_JB theme
+# Installation of Seti_JB theme
 
-### IntelliJ Idea
+## IntelliJ Idea
 1. Select your platform `idea-xxx.jar` and `icons-xxx.jar`.
 
 2. Rename to `idea.jar` and `icons.jar`.
 
 3. Replace `idea.jar` and `icons.jar` to
 
-| Platform | Folder path |
-| -------- | ----------- |
+Platform | Folder path
+-------- | -----------
 Mac | `/Applications/IntelliJ Idea 14.app/Contents/lib/`
 Windows | `C:\Program Files (x86)\JetBrains\IntelliJ IDEA xxx\lib\`
 
-### PhpStorm
+## PhpStorm
 1. Select your platform `phpstorm-xxx.jar` and `icons-xxx.jar`.
 
 2. Rename to `phpstorm.jar` and `icons.jar`.
 
 3. Replace `phpstorm.jar` and `icons.jar` to
 
-| Platform | Folder path |
-| -------- | ----------- |
+Platform | Folder path
+-------- | -----------
 Mac | `/Applications/PhpStorm.app/Contents/lib/`
 Windows | `C:\Program Files (x86)\JetBrains\PhpStorm xxx\lib\`
 
-### Third party plugins
+## Third party plugins
 Replace to
 
-#### IntelliJ Idea
-
-| Platform | Folder path |
-| -------- | ----------- |
+### IntelliJ Idea
+Platform | Folder path
+-------- | -----------
 Mac | `/Applications/IntelliJ Idea 14.app/Contents/plugins`
 Windows | `Program Files\JetBrains\IntelliJ IDEA xxx\plugins`
 
-#### PhpStorm
-| Platform | Folder path |
-| -------- | ----------- |
+### PhpStorm
+Platform | Folder path
+-------- | -----------
 Mac | `/Applications/PhpStorm.app/Contents/plugins`
 Windows | `Program Files\JetBrains\PhpStorm xxx\plugins`
 
 in [plugins](https://github.com/zchee/Seti_JetBrains/tree/master/plugins)
 
-## Important
+# Important
 You must replace this files or move original files in another folder, in other way ide will use renamed files in lib folders.
 
-## Status
-| Language/Section | Syntax Supported | Icon Supported | Note |
-|---|---|---|---|
+# Status
+Language/Section | Syntax Supported | Icon Supported | Note
+---|---|---|---
 Java | No | **Yes** | -
 ActionScript | No | No | -
 CFML | No | No | -
@@ -110,17 +129,17 @@ XML | No | No | -
 Yaml | No | No | -
 
 
-## jar Origin Application Version
-### Mac
+# jar Origin Application Version
+## Mac
 - IntelliJ Idea 14 EAP (build 139.872)
 - PhpStorm 8 EAP (build 139.873)
 
-### Windowos
+## Windowos
 - IntelliJ Idea 14 EAP (build 139.872.1)
 - PhpStorm 8.0.2
 
 
-## TODO
+# TODO
 - [x] Remove the gutter color and see how it looks.
 - [x] Can't we change the main app theme colors ?
 - [ ] The numbers should be in red like the (-1) to make it easier to spot.
@@ -128,11 +147,11 @@ Yaml | No | No | -
 - [ ] Proceed with the respective icon change
 
 
-## CONTRIBUTE
+# CONTRIBUTE
 See [CONTRIBUTING.md](https://github.com/zchee/Seti_JetBrains/blob/master/CONTRIBUTING.md)
 
 
-## Credits
+# Credits
 
 - Theme is Originally by [jesseweed](https://github.com/jesseweed/seti-ui).
 - Ported based on [Seti_ST3](https://github.com/ctf0/Seti_ST3) by [ctf0](https://github.com/ctf0/).
