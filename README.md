@@ -24,8 +24,10 @@ Tentatively
 
 Move Seti_JB.icls to
 
-- Mac : `~/Library/Application Support/IntelliJIdea14/` or `~/Library/Application Support/WebIde80/`
-- Windows : `~/.IntelliJIdea14/config/colors` or `~/.WebIde80/config/colors`
+| Platform | Folder path |
+| -------- | ----------- |
+Mac | `~/Library/Preferences/IntelliJIdea14/colors` or `~/Library/Preferences/WebIde80/colors`
+Windows | `~/.IntelliJIdea14/config/colors` or `~/.WebIde80/config/colors`
 
 
 ## Installation of Seti_JB theme
@@ -37,8 +39,10 @@ Move Seti_JB.icls to
 
 3. Replace `idea.jar` and `icons.jar` to
 
-- Mac : `/Applications/IntelliJ Idea 14.app/Contents/lib/`
-- Windows : `C:\Program Files (x86)\JetBrains\IntelliJ IDEA xxx\lib\`
+| Platform | Folder path |
+| -------- | ----------- |
+Mac | `/Applications/IntelliJ Idea 14.app/Contents/lib/`
+Windows | `C:\Program Files (x86)\JetBrains\IntelliJ IDEA xxx\lib\`
 
 ### PhpStorm
 1. Select your platform `phpstorm-xxx.jar` and `icons-xxx.jar`.
@@ -47,23 +51,30 @@ Move Seti_JB.icls to
 
 3. Replace `phpstorm.jar` and `icons.jar` to
 
-- Mac : `/Applications/PhpStorm.app/Contents/lib/`
-- Windows : `C:\Program Files (x86)\JetBrains\PhpStorm xxx\lib\`
+| Platform | Folder path |
+| -------- | ----------- |
+Mac | `/Applications/PhpStorm.app/Contents/lib/`
+Windows | `C:\Program Files (x86)\JetBrains\PhpStorm xxx\lib\`
 
 ### Third party plugins
 Replace to
 
 #### IntelliJ Idea
-- Mac : `/Applications/IntelliJ Idea 14.app/Contents/plugins`
-- Windows : `Program Files\JetBrains\IntelliJ IDEA xxx\plugins`
+
+| Platform | Folder path |
+| -------- | ----------- |
+Mac | `/Applications/IntelliJ Idea 14.app/Contents/plugins`
+Windows | `Program Files\JetBrains\IntelliJ IDEA xxx\plugins`
 
 #### PhpStorm
-- Mac : `/Applications/PhpStorm.app/Contents/plugins`
-- Windows : `Program Files\JetBrains\PhpStorm xxx\plugins`
+| Platform | Folder path |
+| -------- | ----------- |
+Mac | `/Applications/PhpStorm.app/Contents/plugins`
+Windows | `Program Files\JetBrains\PhpStorm xxx\plugins`
 
 in [plugins](https://github.com/zchee/Seti_JetBrains/tree/master/plugins)
 
-### Important
+## Important
 You must replace this files or move original files in another folder, in other way ide will use renamed files in lib folders.
 
 ## Status
