@@ -85,7 +85,7 @@ JSON | No | No | -
 JSP| No | No | -
 JSPX | No | No | -
 LESS | No | No | -
-PHP | No | No | -
+PHP | No | **Yes** | -
 Python | No | No | -
 Ruby | No | No | -
 SASS | *Progress* | **Yes** | -
