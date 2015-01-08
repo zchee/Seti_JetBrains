@@ -47,7 +47,7 @@ Move [Seti_JB.icls](syntax/Seti_JB.icls) to
 Platform | Folder path
 -------- | -----------
 Mac | `~/Library/Preferences/IntelliJIdea14/colors` or `~/Library/Preferences/WebIde80/colors`
-Windows | `~/.IntelliJIdea14/config/colors` or `~/.WebIde80/config/colors`
+Windows | `~\JetBrains\.IntelliJIdea14\config\colors` or `~\.WebIde80\config\colors`
 
 
 # Installation of Seti_JB theme
@@ -83,13 +83,13 @@ Replace to
 Platform | Folder path
 -------- | -----------
 Mac | `/Applications/IntelliJ Idea 14.app/Contents/plugins`
-Windows | `Program Files\JetBrains\IntelliJ IDEA xxx\plugins`
+Windows | `C:\Program Files (x86)\JetBrains\IntelliJ IDEA xxx\plugins`
 
 ### PhpStorm
 Platform | Folder path
 -------- | -----------
 Mac | `/Applications/PhpStorm.app/Contents/plugins`
-Windows | `Program Files\JetBrains\PhpStorm xxx\plugins`
+Windows | `C:\Program Files (x86)\JetBrains\PhpStorm xxx\plugins`
 
 in [plugins](https://github.com/zchee/Seti_JetBrains/tree/master/plugins)
 
