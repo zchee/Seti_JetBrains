@@ -1,7 +1,7 @@
 Seti_JetBrains
 ==============
 
-[Seti_UX](https://github.com/ctf0/Seti_UX) port for JetBrains IDE.
+[Seti_UI](https://github.com/ctf0/Seti_ST3) and [Seti_UX](https://github.com/ctf0/Seti_UX) port for JetBrains IDE.  
 And Hacking `Darcula` Theme.
 
 
@@ -19,6 +19,10 @@ Tentatively
 ## Application
 - IntelliJ Idea 14
 - PhpStorm 8
+
+# Important
+You must replace this files or move original files in another folder, in other way ide will use renamed files in lib folders.
+
 
 # Installation
 
@@ -83,40 +87,9 @@ Windows | `C:\Program Files (x86)\JetBrains\PhpStorm xxx\plugins`
 
 in [plugins](https://github.com/zchee/Seti_JetBrains/tree/master/plugins)
 
-# Important
-You must replace this files or move original files in another folder, in other way ide will use renamed files in lib folders.
 
-# Status
-Language/Section | Syntax Supported | Icon Supported | Note
----|---|---|---
-Java | No | **Yes** | -
-ActionScript | No | No | -
-CFML | No | No | -
-CoffeeScript | No | **Yes** | -
-CSS | __*WIP*__ | **Yes** | -
-Gherkin| No | No | -
-Groovy | No | No | -
-GSP | No | No | -
-HAML | No | No | -
-HTML | __*WIP*__ | **Yes** | -
-Jade | No | No | -
-JavaScript | __*WIP*__ | **Yes** | -
-JSON | No | No | -
-JSP| No | No | -
-JSPX | No | No | -
-LESS | No | No | -
-PHP | No | **Yes** | -
-Python | No | No | -
-Ruby | __*WIP*__ | No | -
-SASS | __*WIP*__ | **Yes** | -
-SCSS | __*WIP*__ | **Yes** | -
-Slim | No | No | -
-SQL | No | No | -
-Stylus | No | No | -
-TypeScript | No | No | -
-Velocity | No | No | -
-XML | No | No | -
-Yaml | No | No | -
+# Language status
+See [STATUS.md](STATUS.md)
 
 
 # jar Origin application version
@@ -127,14 +100,6 @@ Yaml | No | No | -
 ## Windowos
 - IntelliJ Idea 14 EAP (build 139.872.1)
 - PhpStorm 8.0.2
-
-
-# TODO
-- [x] Remove the gutter color and see how it looks.
-- [x] Can't we change the main app theme colors ?
-- [ ] The numbers should be in red like the (-1) to make it easier to spot.
-- [ ] Give the var a different color other than white to make it more distinguishable.
-- [ ] Proceed with the respective icon change
 
 
 # CONTRIBUTE
