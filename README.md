@@ -1,7 +1,7 @@
 Seti_JetBrains
 ==============
 
-[Seti_UI](https://github.com/ctf0/Seti_ST3) port for JetBrains IDE.
+[Seti_UX](https://github.com/ctf0/Seti_UX) port for JetBrains IDE.
 And Hacking `Darcula` Theme.
 
 
@@ -93,23 +93,23 @@ Java | No | **Yes** | -
 ActionScript | No | No | -
 CFML | No | No | -
 CoffeeScript | No | **Yes** | -
-CSS | *Progress* | **Yes** | -
+CSS | __*WIP*__ | **Yes** | -
 Gherkin| No | No | -
 Groovy | No | No | -
 GSP | No | No | -
 HAML | No | No | -
-HTML | *Progress* | **Yes** | -
+HTML | __*WIP*__ | **Yes** | -
 Jade | No | No | -
-JavaScript | *Progress* | **Yes** | -
+JavaScript | __*WIP*__ | **Yes** | -
 JSON | No | No | -
 JSP| No | No | -
 JSPX | No | No | -
 LESS | No | No | -
 PHP | No | **Yes** | -
 Python | No | No | -
-Ruby | No | No | -
-SASS | *Progress* | **Yes** | -
-SCSS | *Progress* | **Yes** | -
+Ruby | __*WIP*__ | No | -
+SASS | __*WIP*__ | **Yes** | -
+SCSS | __*WIP*__ | **Yes** | -
 Slim | No | No | -
 SQL | No | No | -
 Stylus | No | No | -
@@ -119,9 +119,9 @@ XML | No | No | -
 Yaml | No | No | -
 
 
-# jar Origin Application Version
+# jar Origin application version
 ## Mac
-- IntelliJ Idea 14 EAP (build 139.872)
+- IntelliJ Idea 14 (build 14.0.3)
 - PhpStorm 8 EAP (build 139.873)
 
 ## Windowos
