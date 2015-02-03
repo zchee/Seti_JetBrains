@@ -1,29 +1,9 @@
 Seti_JetBrains
 ==============
 
-[Seti_UI](https://github.com/ctf0/Seti_ST3) port for JetBrains IDE.  
+[Seti_UI](https://github.com/ctf0/Seti_ST3) port for JetBrains IDE.
 And Hacking `Darcula` Theme.
 
-# Table of Contents
-- [Screenshot](#screenshot)
-- [Environment](#environment)
-  - [Platform](#platform)
-  - [Application](#application)
-- [Installation of Seti_JB syntax](#installation-of-seti_jb-syntax)
-- [Installation of Seti_JB theme](#installation-of-seti_jb-theme)
-  - [IntelliJ Idea](#intellij-idea)
-  - [PhpStorm](#phpstorm)
-  - [Third party plugins](#third-party-plugins)
-    - [IntelliJ Idea](#intellij-idea)
-    - [PhpStorm](#phpstorm)
-- [Important](#important)
-- [Status](#status)
-- [jar Origin Application Version](#jar-origin-application-version)
-  - [Mac](#mac)
-  - [Windowos](#windowos)
-- [TODO](#todo)
-- [CONTRIBUTE](#contribute)
-- [Credits](#credits)
 
 # Screenshot
 Tentatively
@@ -40,8 +20,9 @@ Tentatively
 - IntelliJ Idea 14
 - PhpStorm 8
 
-# Installation of Seti_JB syntax
+# Installation
 
+## Syntax
 Move [Seti_JB.icls](syntax/Seti_JB.icls) to
 
 Platform | Folder path
@@ -50,9 +31,9 @@ Mac | `~/Library/Preferences/IntelliJIdea14/colors` or `~/Library/Preferences/We
 Windows | `~\JetBrains\.IntelliJIdea14\config\colors` or `~\.WebIde80\config\colors`
 
 
-# Installation of Seti_JB theme
+## Theme
 
-## IntelliJ Idea
+### IntelliJ Idea
 1. Select your platform `idea-xxx.jar` and `icons-xxx.jar`.
 
 2. Rename to `idea.jar` and `icons.jar`.
@@ -64,7 +45,7 @@ Platform | Folder path
 Mac | `/Applications/IntelliJ Idea 14.app/Contents/lib/`
 Windows | `C:\Program Files (x86)\JetBrains\IntelliJ IDEA xxx\lib\`
 
-## PhpStorm
+### PhpStorm
 1. Select your platform `phpstorm-xxx.jar` and `icons-xxx.jar`.
 
 2. Rename to `phpstorm.jar` and `icons.jar`.
@@ -76,7 +57,16 @@ Platform | Folder path
 Mac | `/Applications/PhpStorm.app/Contents/lib/`
 Windows | `C:\Program Files (x86)\JetBrains\PhpStorm xxx\lib\`
 
-## Third party plugins
+## Icons
+1. Open JetBrains IDE.
+
+2. Open Preferences.
+
+3. `Plugins > Install plugin from disk` click.
+
+4. Choose [Seti_JB-icons.jar](icons/Seti_JB-icons.jar)
+
+## Third party plugins icons
 Replace to
 
 ### IntelliJ Idea
