@@ -1,7 +1,7 @@
 Seti_JetBrains
 ==============
 
-[Seti_UI](https://github.com/ctf0/Seti_ST3) and [Seti_UX](https://github.com/ctf0/Seti_UX) port for JetBrains IDE.
+[Seti_UI](https://github.com/ctf0/Seti_ST3) and [Seti_UX](https://github.com/ctf0/Seti_UX) port for JetBrains IDE.  
 And Hacking `Darcula` Theme.
 
 
