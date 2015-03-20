@@ -1,6 +1,8 @@
 <scheme name="Seti_JB" version="124" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.3" />
   <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
@@ -17,11 +19,11 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_MERGED" value="7dc5f9" />
-    <option name="FILESTATUS_MODIFIED" value="ffff55" />
+    <option name="FILESTATUS_MODIFIED" value="f9db34" />
     <option name="FILESTATUS_NOT_CHANGED" value="" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6897bb" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6897bb" />
-    <option name="FILESTATUS_UNKNOWN" value="565656" />
+    <option name="FILESTATUS_UNKNOWN" value="898989" />
     <option name="FILESTATUS_addedOutside" value="629755" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
