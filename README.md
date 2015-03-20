@@ -1,7 +1,7 @@
 Seti_JetBrains
 ==============
 
-[Seti_UI](https://github.com/ctf0/Seti_ST3) and [Seti_UX](https://github.com/ctf0/Seti_UX) port for JetBrains IDE.  
+[Seti_UI](https://github.com/ctf0/Seti_ST3) and [Seti_UX](https://github.com/ctf0/Seti_UX) port for JetBrains IDE.
 And Hacking `Darcula` Theme.
 
 
@@ -18,6 +18,8 @@ Tentatively
 
 ## Application
 - IntelliJ Idea 14
+- RubyMine 141.96
+- WebStorm 140.2424
 - PhpStorm 8
 
 # Important
