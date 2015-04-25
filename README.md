@@ -107,6 +107,8 @@ Windows | `~\JetBrains\.IntelliJIdea14\config\colors` or `~\.WebIde80\config\col
 
 4. Choose [Seti_JB-icons.jar](icons/Seti_JB-icons.jar)
 
+5. Please Restart IDE.
+
 ## Third party plugins icons
 Replace to
 
