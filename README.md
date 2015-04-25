@@ -25,10 +25,10 @@ Tentatively
 - Windows
 
 ## Application
-- IntelliJ Idea 14
-- RubyMine 141.96
-- WebStorm 140.2424
-- PhpStorm 8
+- IntelliJ Idea 141.712.1
+- PhpStorm 8.0.3
+- WebStorm 141.614
+- RubyMine 141.664
 
 ----
 
@@ -52,11 +52,9 @@ Windows | `~\JetBrains\.IntelliJIdea14\config\colors` or `~\.WebIde80\config\col
 
 ### IntelliJ Idea
 > ----
-> 1. Select your platform `idea-xxx.jar` and `icons-xxx.jar`.
+> 1. Select your platform `idea.jar` in [idea](https://github.com/zchee/Seti_JetBrains/tree/master/theme/idea).
 >
-> 2. Rename to `idea.jar` and `icons.jar`.
-> 
-> 3. Replace `idea.jar` and `icons.jar` to
+> 2. Replace `idea.jar` to
 > 
 > Platform | Folder path
 > -------- | -----------
@@ -66,16 +64,38 @@ Windows | `~\JetBrains\.IntelliJIdea14\config\colors` or `~\.WebIde80\config\col
 
 ### PhpStorm
 > ----
-> 1. Select your platform `phpstorm-xxx.jar` and `icons-xxx.jar`.
+> 1. Select your platform `phpstorm.jar` in [phpstorm](https://github.com/zchee/Seti_JetBrains/tree/master/theme/phpstorm).
 >
-> 2. Rename to `phpstorm.jar` and `icons.jar`.
-> 
-> 3. Replace `phpstorm.jar` and `icons.jar` to
+> 2. Replace `phpstorm.jar` to
 > 
 > Platform | Folder path
 > -------- | -----------
 > Mac | `/Applications/PhpStorm.app/Contents/lib/`
 > Windows | `C:\Program Files (x86)\JetBrains\PhpStorm xxx\lib\`
+> ----
+
+### WebStorm
+> ----
+> 1. Select your platform `webstorm.jar` in [webstorm](https://github.com/zchee/Seti_JetBrains/tree/master/theme/webstorm).
+>
+> 2. Replace `webstorm.jar` to
+> 
+> Platform | Folder path
+> -------- | -----------
+> Mac | `/Applications/WebStorm 10 EAP.app/Contents/lib/`
+> Windows | `C:\Program Files (x86)\JetBrains\WebStorm 10 EAP\lib\`
+> ----
+
+### RubyMine
+> ----
+> 1. Select your platform `rubymine.jar` in [rubymine](https://github.com/zchee/Seti_JetBrains/tree/master/theme/rubymine).
+>
+> 2. Replace `rubymine.jar` to
+> 
+> Platform | Folder path
+> -------- | -----------
+> Mac | `/Applications/RubyMine.app/Contents/lib/`
+> Windows | `C:\Program Files (x86)\JetBrains\RubyMine\lib\`
 > ----
 
 ## Icons
@@ -107,16 +127,6 @@ in [plugins](https://github.com/zchee/Seti_JetBrains/tree/master/plugins)
 
 # Status
 See [STATUS.md](STATUS.md)
-
-
-# jar Origin application version
-## Mac
-- IntelliJ Idea 14 (build 14.0.3)
-- PhpStorm 8 EAP (build 139.873)
-
-## Windowos
-- IntelliJ Idea 14 EAP (build 139.872.1)
-- PhpStorm 8.0.2
 
 
 # CONTRIBUTE
