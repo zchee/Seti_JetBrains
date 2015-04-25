@@ -9,7 +9,7 @@ CSS | __*WIP*__ | **Yes** | -
 Gherkin| No | No | -
 Groovy | No | No | -
 GSP | No | No | -
-HAML | No | No | -
+HAML | No | **Yes** | -
 HTML | __*WIP*__ | **Yes** | -
 Jade | No | No | -
 JavaScript | __*WIP*__ | **Yes** | -
@@ -19,7 +19,7 @@ JSPX | No | No | -
 LESS | No | No | -
 PHP | No | **Yes** | -
 Python | No | No | -
-Ruby | __*WIP*__ | No | -
+Ruby | __*WIP*__ | **Yes** | -
 SASS | __*WIP*__ | **Yes** | -
 SCSS | __*WIP*__ | **Yes** | -
 Slim | No | No | -
