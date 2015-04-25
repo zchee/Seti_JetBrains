@@ -4,12 +4,20 @@ Seti_JetBrains
 [Seti_UI](https://github.com/ctf0/Seti_ST3) and [Seti_UX](https://github.com/ctf0/Seti_UX) port for JetBrains IDE.  
 And Hacking `Darcula` Theme.
 
+----
+
+[Screenshot](#screenshot) | [Environment](#eEnvironment) | [Installation](#installation) | [Status](#status) | [CONTRIBUTE](#contribute) | [Credits](#credits)
+---------- | ----------- | ------------ | --------------- | ---------- | -------
+
+----
 
 # Screenshot
 Tentatively
 
 ![](https://raw.githubusercontent.com/zchee/Seti_JetBrains/master/screenshot/all.png)
 
+
+----
 
 # Environment
 ## Platform
@@ -22,9 +30,12 @@ Tentatively
 - WebStorm 140.2424
 - PhpStorm 8
 
+----
+
 # Important
 You must replace this files or move original files in another folder, in other way ide will use renamed files in lib folders.
 
+----
 
 # Installation
 
@@ -40,28 +51,32 @@ Windows | `~\JetBrains\.IntelliJIdea14\config\colors` or `~\.WebIde80\config\col
 ## Theme
 
 ### IntelliJ Idea
-1. Select your platform `idea-xxx.jar` and `icons-xxx.jar`.
-
-2. Rename to `idea.jar` and `icons.jar`.
-
-3. Replace `idea.jar` and `icons.jar` to
-
-Platform | Folder path
--------- | -----------
-Mac | `/Applications/IntelliJ Idea 14.app/Contents/lib/`
-Windows | `C:\Program Files (x86)\JetBrains\IntelliJ IDEA xxx\lib\`
+> ----
+> 1. Select your platform `idea-xxx.jar` and `icons-xxx.jar`.
+>
+> 2. Rename to `idea.jar` and `icons.jar`.
+> 
+> 3. Replace `idea.jar` and `icons.jar` to
+> 
+> Platform | Folder path
+> -------- | -----------
+> Mac | `/Applications/IntelliJ Idea 14.app/Contents/lib/`
+> Windows | `C:\Program Files (x86)\JetBrains\IntelliJ IDEA xxx\lib\`
+> ----
 
 ### PhpStorm
-1. Select your platform `phpstorm-xxx.jar` and `icons-xxx.jar`.
-
-2. Rename to `phpstorm.jar` and `icons.jar`.
-
-3. Replace `phpstorm.jar` and `icons.jar` to
-
-Platform | Folder path
--------- | -----------
-Mac | `/Applications/PhpStorm.app/Contents/lib/`
-Windows | `C:\Program Files (x86)\JetBrains\PhpStorm xxx\lib\`
+> ----
+> 1. Select your platform `phpstorm-xxx.jar` and `icons-xxx.jar`.
+>
+> 2. Rename to `phpstorm.jar` and `icons.jar`.
+> 
+> 3. Replace `phpstorm.jar` and `icons.jar` to
+> 
+> Platform | Folder path
+> -------- | -----------
+> Mac | `/Applications/PhpStorm.app/Contents/lib/`
+> Windows | `C:\Program Files (x86)\JetBrains\PhpStorm xxx\lib\`
+> ----
 
 ## Icons
 1. Open JetBrains IDE.
@@ -90,7 +105,7 @@ Windows | `C:\Program Files (x86)\JetBrains\PhpStorm xxx\plugins`
 in [plugins](https://github.com/zchee/Seti_JetBrains/tree/master/plugins)
 
 
-# Language status
+# Status
 See [STATUS.md](STATUS.md)
 
 
