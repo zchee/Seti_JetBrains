@@ -30,6 +30,7 @@ Tentatively
 - WebStorm 141.728 ( 10.0.2 )
 - WebStorm EAP 141.614
 - RubyMine 141.664
+- Android Studio 135.1740770
 
 ----
 
