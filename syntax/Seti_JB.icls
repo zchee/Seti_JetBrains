@@ -1,8 +1,7 @@
-<scheme name="Seti_JB" version="124" parent_scheme="Default">
+<scheme name="Seti_JB" version="141" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro for Powerline" />
-  <option name="CONSOLE_FONT_SIZE" value="16" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
@@ -369,7 +368,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="ebfaff" />
+        <option name="FOREGROUND" value="d8f6ff" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -387,6 +386,7 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="ffd200" />
+        <option name="BACKGROUND" value="151718" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -437,7 +437,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="ebfaff" />
+        <option name="FOREGROUND" value="d8f6ff" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -586,7 +586,7 @@
     </option>
     <option name="GO_STRING">
       <value>
-        <option name="FOREGROUND" value="ebfaff" />
+        <option name="FOREGROUND" value="d8f6ff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1074,9 +1074,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="1a23" />
-        <option name="BACKGROUND" value="77ff00" />
-        <option name="EFFECT_COLOR" value="77ff00" />
+        <option name="EFFECT_COLOR" value="fed02e" />
       </value>
     </option>
     <option name="SPY-JS.EXCEPTION">
@@ -1143,7 +1141,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="ebfaff" />
+        <option name="FOREGROUND" value="d8f6ff" />
         <option name="BACKGROUND" value="151718" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
