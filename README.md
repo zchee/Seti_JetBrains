@@ -25,7 +25,7 @@ Tentatively
 - Windows
 
 ## Application
-- IntelliJ Idea 141.814.3
+- IntelliJ Idea 141.914.3
 - PhpStorm 8.0.3
 - WebStorm 141.728 ( 10.0.2 )
 - WebStorm EAP 141.614
