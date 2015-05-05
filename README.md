@@ -22,7 +22,7 @@ Tentatively
 # Environment
 ## Platform
 - Mac
-- Windows
+- Windows (Not maintenance. Please post issue if you want the latest version.)
 
 ## Application
 - IntelliJ Idea 141.914.3
