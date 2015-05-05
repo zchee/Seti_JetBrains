@@ -26,7 +26,7 @@ Tentatively
 
 ## Application
 - IntelliJ Idea 141.914.3
-- PhpStorm 8.0.3
+- PhpStorm EAP 141.891
 - WebStorm 141.728 ( 10.0.2 )
 - WebStorm EAP 141.614
 - RubyMine 141.664
