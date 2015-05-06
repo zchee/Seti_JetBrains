@@ -11,19 +11,15 @@ result,
 
 Recommendation is `jdk1.8.x.jdk` or `jdk1.9.x.jdk`
 
-# 2. Expand jar
-
-Intellij Idea
-> /Applications/IntelliJ\ IDEA\ 14\ EAP.app/Contents/lib/idea.jar
-
-RubyMine  
-> /Applications/RubyMine.app/Contents/lib/rubymine.jar
+# 2. Clone and Expand jar
 
 ```
-$ cd /tmp
+$ git clone https://github.com/zchee/Seti_JetBrains.git
+$ cd Seti_JetBrains
+$ mkdir _tmp && cd _tmp
 $ mkdir ./idea-141.xxx.x # x is IDE version
 $ cd ./idea-141.xxx.x
-$ jar xf "/Applications/IntelliJ IDEA 14 EAP.app/Contents/lib/idea.jar"
+$ jar xf ../../theme/mac/idea.jar
 ```
 
 # 3. Edit darcula.properties
@@ -35,7 +31,7 @@ $ find . -name darcula.properties
 ```
 
 Ok, Let's edit `darcula.properties`.    
-Each functions, please refer to the [DEBUG](DEBUG.md)
+Each functions, please refer to the [darcula.properties](/properties/darcula.properties) and [DEBUG](DEBUG.md)
 
 # 4. Compile jar
 
