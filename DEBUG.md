@@ -20,6 +20,13 @@ Aqua | #00ffff
 Fuchsia | #ff00ff
 Lime | #00ff00
 
+# darcula.inactiveBackground
+![](https://raw.githubusercontent.com/wiki/zchee/Seti_JetBrains/screenshots/darcula.inactiveBackground.png)
+
+# darcula.selectionInactiveBackground
+![](https://raw.githubusercontent.com/wiki/zchee/Seti_JetBrains/screenshots/darcula.selectionInactiveBackground.png)
+
+
 # darcula
 Affect overall.
 
