@@ -6,7 +6,15 @@ And Hacking `Darcula` Theme.
 
 ----
 
-[Screenshot](#screenshot) | [Environment](#eEnvironment) | [Installation](#installation) | [Status](#status) | [CONTRIBUTE](#contribute) | [Credits](#credits)
+# for starganizer
+I prefer the discussion.  
+JetBrains is a good product, but it is occlusive to the theme.  
+Let's easy to use the JetBrains everyone.  
+[Issue](https://github.com/zchee/Seti_JetBrains/issues)
+
+# TOC
+
+[Screenshot](#screenshot) | [Environment](#environment) | [Installation](#installation) | [Status](#status) | [CONTRIBUTE](#contribute) | [Credits](#credits)
 ---------- | ----------- | ------------ | --------------- | ---------- | -------
 
 ----
