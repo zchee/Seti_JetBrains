@@ -35,10 +35,10 @@ Tentatively
 ## Application
 - IntelliJ Idea 14.1.3
 - IntelliJ Idea EAP 141.1010.3
+- RubyMine 141.910
 - PhpStorm EAP 141.891
 - WebStorm 141.728 ( 10.0.2 )
 - WebStorm EAP 141.614
-- RubyMine EAP 141.664
 - Android Studio 135.1740770
 
 ----
