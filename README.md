@@ -33,7 +33,7 @@ Tentatively
 - Windows (Not maintenance. Please post issue if you want the latest version.)
 
 ## Application
-- IntelliJ Idea 14.1.3
+- IntelliJ Idea 141.1010.3 ( 14.1.3 )
 - IntelliJ Idea EAP 141.1010.3
 - RubyMine 141.910
 - PhpStorm EAP 141.891
