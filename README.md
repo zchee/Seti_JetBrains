@@ -40,6 +40,7 @@ Tentatively
 - WebStorm 141.728 ( 10.0.2 )
 - WebStorm EAP 141.614
 - Android Studio 135.1740770
+- AppCode 139.1401.37 (3.1.6)
 
 ----
 
