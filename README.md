@@ -1,12 +1,15 @@
 Seti_JetBrains
 ==============
-
 [Seti_UI](https://github.com/ctf0/Seti_ST3) and [Seti_UX](https://github.com/ctf0/Seti_UX) port for JetBrains IDE.  
 And Hacking `Darcula` Theme.
 
 ----
 
-# for starganizer
+# For starganizer
+
+> Sorry, I do not have a good at English.  
+> It is **naive** English, but please acknowledge.
+
 I prefer the discussion.  
 JetBrains is a good product, but it is occlusive to the theme.  
 Let's easy to use the JetBrains everyone.  
@@ -148,6 +151,5 @@ See [CONTRIBUTING.md](https://github.com/zchee/Seti_JetBrains/blob/master/CONTRI
 
 
 # Credits
-
 - Theme is Originally by [jesseweed](https://github.com/jesseweed/seti-ui).
 - Ported based on [Seti_ST3](https://github.com/ctf0/Seti_ST3) by [ctf0](https://github.com/ctf0/).
