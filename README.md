@@ -1,139 +1,162 @@
-Seti_JetBrains
-==============
-[Seti_UI](https://github.com/ctf0/Seti_ST3) and [Seti_UX](https://github.com/ctf0/Seti_UX) port for JetBrains IDE.  
-And Hacking `Darcula` Theme.
+# Seti_JetBrains
+[Seti_UI](https://github.com/ctf0/Seti_ST3) and [Seti_UX](https://github.com/ctf0/Seti_UX) theme port for JetBrains all IDE.  
+and **Hacking** JetBrains addon `Darcula` Theme.  
+
+#### Special Thanks  
+[![jetbrains][99.1]][99]  [![jesseweed][98.1]][98] [![ctf0][97.1]][97]
+
+====
+
+#### For starganizer
+I'm a...
+```
+Sorry, I do not have a good at English.  
+It is naive English, but please acknowledge.
+```
+
+but, I prefer the discussion.  
+JetBrains is a good product, but it is occlusive to the theme.  
+Let's easy to use the JetBrains everyone. [Issues page](https://github.com/zchee/Seti_JetBrains/issues).
+
+**I'm awakening at anytime.** Please feel free to question and discuss!  
+[![twitter][1.1]][1]  [![github][2.1]][2]  [![google][3.1]][3]
+
+====
 
 ----
-
-# For starganizer
-
-> Sorry, I do not have a good at English.  
-> It is **naive** English, but please acknowledge.
-
-I prefer the discussion.  
-JetBrains is a good product, but it is occlusive to the theme.  
-Let's easy to use the JetBrains everyone.  
-[Issue](https://github.com/zchee/Seti_JetBrains/issues)
-
-# TOC
-
 [Screenshot](#screenshot) | [Environment](#environment) | [Installation](#installation) | [Status](#status) | [CONTRIBUTE](#contribute) | [Credits](#credits)
 ---------- | ----------- | ------------ | --------------- | ---------- | -------
-
 ----
 
-# Screenshot
+
+## Screenshot
 Tentatively
 
 ![](https://raw.githubusercontent.com/zchee/Seti_JetBrains/master/screenshot/all.png)
 
+## Environment
+### Platform
+- Mac OS X
+- Ubuntu, Centos, Debian and other Linux distributions *( Not test. Please working report in [issues](https://github.com/zchee/Seti_JetBrains/issues). )*
+- Windows *( Now, not maintenance. Please [issues](https://github.com/zchee/Seti_JetBrains/issues) if you want the latest version. )*
 
-----
+### Applications version
+In principle, it supports only the latest Stable or EAP(Early Access Preview) version.
 
-# Environment
-## Platform
-- Mac
-- Windows (Not maintenance. Please post issue if you want the latest version.)
+| Application | Build |
+| ----------- | ------ |
+| IntelliJ IDEA 14.1.3 | 141.1010.3 |
+| IntelliJ IDEA 14.1 EAP | 141.1192.2 |
+| RubyMine 7.1.2 | 141.1119 |
+| PhpStorm 9 EAP | 141.891 |
+| WebStorm 10.0.2 | 141.728 |
+| WebStorm 10 EAP | 141.614 |
+| AppCode 3.1.6 | 139.1401.37 |
+| Android Studio Canary 1.2.1.1 | 141.1903250 |
 
-## Application
-- IntelliJ Idea 141.1010.3 ( 14.1.3 )
-- IntelliJ Idea EAP 141.1192.2
-- RubyMine 141.1119 ( 7.1.2 )
-- PhpStorm EAP 141.891
-- WebStorm 141.728 ( 10.0.2 )
-- WebStorm EAP 141.614
-- Android Studio Canary 141.1903250( 1.2.1.1 )
-- AppCode 139.1401.37 (3.1.6)
+If you want other ide or old version, please [issues](https://github.com/zchee/Seti_JetBrains/issues).
 
-----
+====
 
-# Important
+## Installation
+
+### Important
 You must replace this files or move original files in another folder, in other way ide will use renamed files in lib folders.
 
-----
-
-# Installation
-
-## Syntax
+### Syntax
 Move [Seti_JB.icls](syntax/Seti_JB.icls) to
 
 Platform | Folder path
 -------- | -----------
-Mac | `~/Library/Preferences/IntelliJIdea14/colors` or `~/Library/Preferences/WebIde80/colors`
-Windows | `~\JetBrains\.IntelliJIdea14\config\colors` or `~\.WebIde80\config\colors`
+Mac | `~/Library/Preferences/IntelliJIDEA14/colors` or `~/Library/Preferences/WebIde80/colors`
+Windows | `~\JetBrains\.IntelliJIDEA14\config\colors` or `~\.WebIde80\config\colors`
 
+====
 
-## Theme
+### Theme
 
-### IntelliJ Idea
-> ----
-> 1. Select your platform `idea.jar` in [idea](https://github.com/zchee/Seti_JetBrains/tree/master/theme/idea).
->
-> 2. Replace `idea.jar` to
-> 
-> Platform | Folder path
-> -------- | -----------
-> Mac | `/Applications/IntelliJ Idea 14.app/Contents/lib/`
-> Windows | `C:\Program Files (x86)\JetBrains\IntelliJ IDEA xxx\lib\`
-> ----
+> #### Intellij IDEA
 
-### PhpStorm
-> ----
-> 1. Select your platform `phpstorm.jar` in [phpstorm](https://github.com/zchee/Seti_JetBrains/tree/master/theme/phpstorm).
->
-> 2. Replace `phpstorm.jar` to
-> 
-> Platform | Folder path
-> -------- | -----------
-> Mac | `/Applications/PhpStorm.app/Contents/lib/`
-> Windows | `C:\Program Files (x86)\JetBrains\PhpStorm xxx\lib\`
-> ----
+1. Select your platform `idea.jar` in [idea](https://github.com/zchee/Seti_JetBrains/tree/master/theme/idea).
 
-### WebStorm
-> ----
-> 1. Select your platform `webstorm.jar` in [webstorm](https://github.com/zchee/Seti_JetBrains/tree/master/theme/webstorm).
->
-> 2. Replace `webstorm.jar` to
-> 
-> Platform | Folder path
-> -------- | -----------
-> Mac | `/Applications/WebStorm 10 EAP.app/Contents/lib/`
-> Windows | `C:\Program Files (x86)\JetBrains\WebStorm 10 EAP\lib\`
-> ----
+2. Replace `idea.jar` to
 
-### RubyMine
-> ----
-> 1. Select your platform `rubymine.jar` in [rubymine](https://github.com/zchee/Seti_JetBrains/tree/master/theme/rubymine).
->
-> 2. Replace `rubymine.jar` to
-> 
-> Platform | Folder path
-> -------- | -----------
-> Mac | `/Applications/RubyMine.app/Contents/lib/`
-> Windows | `C:\Program Files (x86)\JetBrains\RubyMine\lib\`
-> ----
-
-## Icons
-1. Open JetBrains IDE.
-
-2. Open Preferences.
-
-3. `Plugins > Install plugin from disk` click.
-
-4. Choose [Seti_JB-icons.jar](icons/Seti_JB-icons.jar)
-
-5. Please Restart IDE.
-
-## Third party plugins icons
-Replace to
-
-### IntelliJ Idea
 Platform | Folder path
 -------- | -----------
-Mac | `/Applications/IntelliJ Idea 14.app/Contents/plugins`
-Windows | `C:\Program Files (x86)\JetBrains\IntelliJ IDEA xxx\plugins`
+Mac | `/Applications/IntelliJ IDEA 14.app/Contents/lib/`
+Windows | `C:\Program Files (x86)\JetBrains\IntelliJ IDEA xxx\lib\`
 
-### PhpStorm
+=====
+
+> #### PhpStorm
+
+ 1. Select your platform `phpstorm.jar` in [phpstorm](https://github.com/zchee/Seti_JetBrains/tree/master/theme/phpstorm).
+
+ 2. Replace `phpstorm.jar` to
+ 
+ Platform | Folder path
+ -------- | -----------
+ Mac | `/Applications/PhpStorm.app/Contents/lib/`
+ Windows | `C:\Program Files (x86)\JetBrains\PhpStorm xxx\lib\`
+
+=====
+
+> #### WebStorm
+
+ 1. Select your platform `webstorm.jar` in [webstorm](https://github.com/zchee/Seti_JetBrains/tree/master/theme/webstorm).
+
+ 2. Replace `webstorm.jar` to
+ 
+ Platform | Folder path
+ -------- | -----------
+ Mac | `/Applications/WebStorm 10 EAP.app/Contents/lib/`
+ Windows | `C:\Program Files (x86)\JetBrains\WebStorm 10 EAP\lib\`
+
+=====
+
+> #### RubyMine
+
+ 1. Select your platform `rubymine.jar` in [rubymine](https://github.com/zchee/Seti_JetBrains/tree/master/theme/rubymine).
+
+ 2. Replace `rubymine.jar` to
+ 
+ Platform | Folder path
+ -------- | -----------
+ Mac | `/Applications/RubyMine.app/Contents/lib/`
+ Windows | `C:\Program Files (x86)\JetBrains\RubyMine\lib\`
+
+=====
+
+### Icons
+
+1. Download [Seti_JB-icons.jar](icons/Seti_JB-icons.jar)
+
+2. Open JetBrains IDE.
+
+3. Open Preferences.
+
+4. `Plugins > Install plugin from disk` click.
+
+5. Choose [Seti_JB-icons.jar](icons/Seti_JB-icons.jar)
+
+6. Please Restart IDE.
+
+====
+
+### Third party plugins icons
+***! deprecation !***
+
+Replace to
+
+> #### IntelliJ IDEA
+
+ Platform | Folder path
+ -------- | -----------
+ Mac | `/Applications/IntelliJ IDEA 14.app/Contents/plugins`
+ Windows | `C:\Program Files (x86)\JetBrains\IntelliJ IDEA xxx\plugins`
+
+> #### PhpStorm
+
 Platform | Folder path
 -------- | -----------
 Mac | `/Applications/PhpStorm.app/Contents/plugins`
@@ -141,15 +164,42 @@ Windows | `C:\Program Files (x86)\JetBrains\PhpStorm xxx\plugins`
 
 in [plugins](https://github.com/zchee/Seti_JetBrains/tree/master/plugins)
 
+====
 
-# Status
-See [STATUS.md](STATUS.md)
+## Status
+Current status support languages, See [STATUS.md](STATUS.md)
 
+====
 
-# CONTRIBUTE
+## CONTRIBUTE
 See [CONTRIBUTING.md](https://github.com/zchee/Seti_JetBrains/blob/master/CONTRIBUTING.md)
 
+====
 
-# Credits
-- Theme is Originally by [jesseweed](https://github.com/jesseweed/seti-ui).
-- Ported based on [Seti_ST3](https://github.com/ctf0/Seti_ST3) by [ctf0](https://github.com/ctf0/).
+## Credits
+- Very awesome IDE by [JetBrains](http://jetbrains.com/)
+- [Seti-UI](https://github.com/jesseweed/seti-ui) theme for Atom is Originally by [jesseweed](https://github.com/jesseweed/).
+- Port based theme on [Seti_ST3](https://github.com/ctf0/Seti_ST3) by [ctf0](https://github.com/ctf0/).
+
+
+[1]: https://twitter.com/_zchee_
+[2]: https://github.com/zchee/Seti_JetBrains/issues
+[3]: https://plus.google.com/u/0/103426224020413009137/
+[4]: http://tumblr.com
+[5]: http://dribbble.com/
+[6]: http://www.facebook.com/
+
+[99]: http://jetbrains.com/
+[98]: https://github.com/jesseweed/seti-ui
+[97]: https://github.com/ctf0
+
+[1.1]: http://s3.zchee.io/images/fontawesome/32/twitter-square.svg
+[2.1]: http://s3.zchee.io/images/fontawesome/32/github-square.svg
+[3.1]: http://s3.zchee.io/images/fontawesome/32/google-plus-square.svg
+[4.1]: http://s3.zchee.io/images/fontawesome/32/
+[5.1]: http://s3.zchee.io/images/fontawesome/32/
+[6.1]: http://s3.zchee.io/images/fontawesome/32/
+
+[99.1]: http://s3.zchee.io/images/devicon/128/jetbrains/jetbrains-original.svg (JetBrains by konpa/devicon)
+[98.1]: https://github.com/jesseweed/seti-syntax/raw/master/_icons/rounded/rounded-128x128.png (by jesseweed)
+[97.1]: https://avatars0.githubusercontent.com/u/7388088?v=3&s=128 (by ctf0)
