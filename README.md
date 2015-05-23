@@ -42,7 +42,7 @@ Tentatively
 - PhpStorm EAP 141.891
 - WebStorm 141.728 ( 10.0.2 )
 - WebStorm EAP 141.614
-- Android Studio 135.1740770
+- Android Studio Canary 141.1903250( 1.2.1.1 )
 - AppCode 139.1401.37 (3.1.6)
 
 ----
