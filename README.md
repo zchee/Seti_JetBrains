@@ -133,6 +133,8 @@ Windows | `C:\Program Files (x86)\JetBrains\IntelliJ IDEA xxx\lib\`
 =====
 
 ### Icons
+**Not upload JetBrains Plugin Repository.**  
+**Please yourself install.**
 
 1. Download [Seti_JB-icons.jar](icons/Seti_JB-icons.jar)
 
