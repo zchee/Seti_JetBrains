@@ -36,8 +36,8 @@ Tentatively
 
 ## Screencast
 
-[![](https://raw.githubusercontent.com/zchee/Seti_JetBrains/master/screenshot/screencast.png)](https://www.youtube.com/watch?v=AJjeWXpMyxw)
-https://www.youtube.com/watch?v=AJjeWXpMyxw
+[![](https://raw.githubusercontent.com/zchee/Seti_JetBrains/master/screenshot/screencast.png)](https://youtu.be/4EAVo-UPCZk)
+https://www.youtube.com/watch?v=4EAVo-UPCZk
 
 ## Environment
 ### Platform
