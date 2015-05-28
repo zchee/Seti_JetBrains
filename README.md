@@ -1,8 +1,8 @@
 # Seti_JetBrains
-[Seti_UI](https://github.com/ctf0/Seti_ST3) and [Seti_UX](https://github.com/ctf0/Seti_UX) theme port for JetBrains all IDE.  
-and **Hacking** JetBrains addon `Darcula` Theme.  
+[Seti_UI](https://github.com/ctf0/Seti_ST3) and [Seti_UX](https://github.com/ctf0/Seti_UX) theme port for JetBrains all IDE.
+and **Hacking** JetBrains addon `Darcula` Theme.
 
-#### Special Thanks  
+#### Special Thanks
 [![jetbrains][99.1]][99]  [![jesseweed][98.1]][98] [![ctf0][97.1]][97]
 
 ====
@@ -10,15 +10,15 @@ and **Hacking** JetBrains addon `Darcula` Theme.
 #### For starganizer
 I'm a...
 ```
-Sorry, I do not have a good at English.  
+Sorry, I do not have a good at English.
 It is naive English, but please acknowledge.
 ```
 
-but, I prefer the discussion.  
-JetBrains is a good product, but it is occlusive to the theme.  
+but, I prefer the discussion.
+JetBrains is a good product, but it is occlusive to the theme.
 Let's easy to use the JetBrains everyone. [Issues page](https://github.com/zchee/Seti_JetBrains/issues).
 
-**I'm awakening at anytime.** Please feel free to question and discuss!  
+**I'm awakening at anytime.** Please feel free to question and discuss!
 [![twitter][1.1]][1]  [![github][2.1]][2]  [![google][3.1]][3]
 
 ====
@@ -51,15 +51,15 @@ https://www.youtube.com/watch?v=0uP6jUA7tNA
 ### Applications version
 In principle, it supports only the latest Stable or EAP(Early Access Preview) version.
 
-| Application | Build |
-| ----------- | ------ |
-| IntelliJ IDEA 14.1.3 | 141.1010.3 |
-| IntelliJ IDEA 14.1 EAP | 141.1192.2 |
-| RubyMine 7.1.2 | 141.1119 |
-| PhpStorm 9 EAP | 141.891 |
-| WebStorm 10.0.2 | 141.728 |
-| WebStorm 10 EAP | 141.614 |
-| AppCode 3.1.6 | 139.1401.37 |
+| Application                   | Build       |
+|-------------------------------|-------------|
+| IntelliJ IDEA 14.1.3          | 141.1010.3  |
+| IntelliJ IDEA 14.1 EAP        | 141.1192.2  |
+| RubyMine 7.1.2                | 141.1119    |
+| PhpStorm 9 EAP                | 141.891     |
+| WebStorm 10.0.2               | 141.728     |
+| WebStorm 10 EAP               | 141.614     |
+| AppCode 3.1.6                 | 139.1401.37 |
 | Android Studio Canary 1.2.1.1 | 141.1903250 |
 
 If you want other ide or old version, please [issues](https://github.com/zchee/Seti_JetBrains/issues).
@@ -101,7 +101,7 @@ Windows | `C:\Program Files (x86)\JetBrains\IntelliJ IDEA xxx\lib\`
  1. Select your platform `phpstorm.jar` in [phpstorm](https://github.com/zchee/Seti_JetBrains/tree/master/theme/phpstorm).
 
  2. Replace `phpstorm.jar` to
- 
+
  Platform | Folder path
  -------- | -----------
  Mac | `/Applications/PhpStorm.app/Contents/lib/`
@@ -114,7 +114,7 @@ Windows | `C:\Program Files (x86)\JetBrains\IntelliJ IDEA xxx\lib\`
  1. Select your platform `webstorm.jar` in [webstorm](https://github.com/zchee/Seti_JetBrains/tree/master/theme/webstorm).
 
  2. Replace `webstorm.jar` to
- 
+
  Platform | Folder path
  -------- | -----------
  Mac | `/Applications/WebStorm 10 EAP.app/Contents/lib/`
@@ -127,7 +127,7 @@ Windows | `C:\Program Files (x86)\JetBrains\IntelliJ IDEA xxx\lib\`
  1. Select your platform `rubymine.jar` in [rubymine](https://github.com/zchee/Seti_JetBrains/tree/master/theme/rubymine).
 
  2. Replace `rubymine.jar` to
- 
+
  Platform | Folder path
  -------- | -----------
  Mac | `/Applications/RubyMine.app/Contents/lib/`
@@ -136,7 +136,7 @@ Windows | `C:\Program Files (x86)\JetBrains\IntelliJ IDEA xxx\lib\`
 =====
 
 ### Icons
-**Not upload JetBrains Plugin Repository.**  
+**Not upload JetBrains Plugin Repository.**
 **Please yourself install.**
 
 1. Download [Seti_JB-icons.jar](icons/Seti_JB-icons.jar)
