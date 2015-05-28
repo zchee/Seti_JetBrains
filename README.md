@@ -57,7 +57,7 @@ In principle, it supports only the latest Stable or EAP(Early Access Preview) ve
 | IntelliJ IDEA 14.1 EAP        | 141.1192.2  |
 | RubyMine 7.1.2                | 141.1119    |
 | PhpStorm 9 EAP                | 141.891     |
-| WebStorm 10.0.2               | 141.728     |
+| WebStorm 10.0.3               | 141.1237    |
 | WebStorm 10 EAP               | 141.614     |
 | AppCode 3.1.6                 | 139.1401.37 |
 | Android Studio Canary 1.2.1.1 | 141.1903250 |
