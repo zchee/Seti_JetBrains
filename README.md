@@ -24,8 +24,11 @@ Let's easy to use the JetBrains everyone. [Issues page](https://github.com/zchee
 ====
 
 ----
-[Screenshot](#screenshot) | [Screencast](#screencast) | [Environment](#environment) | [Installation](#installation) | [Status](#status) | [CONTRIBUTE](#contribute) | [Credits](#credits)
----------- | ----------- | ----------- | ------------ | --------------- | ---------- | -------
+[Screenshot](#screenshot) | [Screencast](#screencast) | [Environment](#environment) | [Installation](#installation)
+---------- | ----------- | ----------- | ------------ |
+
+| [Status](#status) | [CONTRIBUTE](#contribute) | [Credits](#credits) |
+| ----------------- | ------------------------- | ------------------- |
 
 ----
 
@@ -36,8 +39,8 @@ Tentatively
 
 ## Screencast
 
-[![](https://raw.githubusercontent.com/zchee/Seti_JetBrains/master/screenshot/screencast.png)](https://youtu.be/4EAVo-UPCZk)
-https://www.youtube.com/watch?v=4EAVo-UPCZk
+[![](https://raw.githubusercontent.com/zchee/Seti_JetBrains/master/screenshot/screencast.png)](https://youtu.be/0uP6jUA7tNA)
+https://www.youtube.com/watch?v=0uP6jUA7tNA
 
 ## Environment
 ### Platform
