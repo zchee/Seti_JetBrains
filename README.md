@@ -1,5 +1,5 @@
 # Seti_JetBrains
-[Seti_UI](https://github.com/ctf0/Seti_ST3) and [Seti_UX](https://github.com/ctf0/Seti_UX) theme port for JetBrains all IDE.
+[Seti_UI](https://github.com/ctf0/Seti_ST3) and [Seti_UX](https://github.com/ctf0/Seti_UX) theme port for JetBrains all IDE.  
 and **Hacking** JetBrains addon `Darcula` Theme.
 
 #### Special Thanks
@@ -15,20 +15,17 @@ It is naive English, but please acknowledge.
 ```
 
 but, I prefer the discussion.
-JetBrains is a good product, but it is occlusive to the theme.
+JetBrains is a good product, but it is occlusive to the theme.  
 Let's easy to use the JetBrains everyone. [Issues page](https://github.com/zchee/Seti_JetBrains/issues).
 
-**I'm awakening at anytime.** Please feel free to question and discuss!
+**I'm awakening at anytime.** Please feel free to question and discuss!  
 [![twitter][1.1]][1]  [![github][2.1]][2]  [![google][3.1]][3]
 
 ====
 
 ----
-[Screenshot](#screenshot) | [Screencast](#screencast) | [Environment](#environment) | [Installation](#installation)
----------- | ----------- | ----------- | ------------ |
-
-| [Status](#status) | [CONTRIBUTE](#contribute) | [Credits](#credits) |
-| ----------------- | ------------------------- | ------------------- |
+[Screenshot](#screenshot) | [Screencast](#screencast) | [Environment](#environment) | [Installation](#installation) | [Status](#status) | [CONTRIBUTE](#contribute) | [Credits](#credits) |
+---------- | ----------- | ----------- | ------------ | ----------------- | ------------------------- | ------------------- |
 
 ----
 
