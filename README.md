@@ -42,7 +42,7 @@ https://www.youtube.com/watch?v=0uP6jUA7tNA
 ## Environment
 ### Platform
 - Mac OS X
-- Ubuntu, Centos, Debian and other Linux distributions *( Not test. Please working report in [issues](https://github.com/zchee/Seti_JetBrains/issues). )*
+- Unix *( Not test. Please working report in [issues](https://github.com/zchee/Seti_JetBrains/issues). )*
 - Windows *( Now, not maintenance. Please [issues](https://github.com/zchee/Seti_JetBrains/issues) if you want the latest version. )*
 
 ### Applications version
@@ -55,7 +55,6 @@ In principle, it supports only the latest Stable or EAP(Early Access Preview) ve
 | RubyMine 7.1.2                | 141.1119    |
 | PhpStorm 9 EAP                | 141.891     |
 | WebStorm 10.0.3               | 141.1237    |
-| WebStorm 10 EAP               | 141.614     |
 | AppCode 3.1.6                 | 139.1401.37 |
 | Android Studio Canary 1.2.1.1 | 141.1903250 |
 | CLion 1.0.3                   | 141.873.35  |
