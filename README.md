@@ -52,6 +52,7 @@ In principle, it supports only the latest Stable or EAP(Early Access Preview) ve
 |-------------------------------|-------------|
 | IntelliJ IDEA 14.1.4          | 141.1532.4  |
 | IntelliJ IDEA 14.1 EAP        | 141.1192.2  |
+| IntelliJ IDEA 15 EAP          | 142.2491.4  |
 | RubyMine 7.1.2                | 141.1119    |
 | PhpStorm 9 EAP                | 141.891     |
 | WebStorm 10.0.3               | 141.1237    |
