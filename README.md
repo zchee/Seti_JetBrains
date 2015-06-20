@@ -56,6 +56,7 @@ In principle, it supports only the latest Stable or EAP(Early Access Preview) ve
 | PhpStorm 9 EAP                | 141.891     |
 | WebStorm 10.0.3               | 141.1237    |
 | AppCode 3.1.6                 | 139.1401.37 |
+| AppCode EAP 3.2.0             | 141.1399.2  |
 | Android Studio Canary 1.2.1.1 | 141.1903250 |
 | CLion 1.0.3                   | 141.873.35  |
 
