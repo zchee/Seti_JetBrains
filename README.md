@@ -59,7 +59,7 @@ In principle, it supports only the latest Stable or EAP(Early Access Preview) ve
 | AppCode 3.1.6                 | 139.1401.37 |
 | AppCode EAP 3.2.0             | 141.1399.2  |
 | Android Studio Canary 1.2.1.1 | 141.1903250 |
-| CLion 1.0.3                   | 141.873.35  |
+| CLion 1.0.4                   | 141.874.66  |
 
 If you want other ide or old version, please [issues](https://github.com/zchee/Seti_JetBrains/issues).
 
