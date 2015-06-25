@@ -2,6 +2,8 @@
 [Seti_UI](https://github.com/ctf0/Seti_ST3) and [Seti_UX](https://github.com/ctf0/Seti_UX) theme port for JetBrains all IDE.  
 and **Hacking** JetBrains addon `Darcula` Theme.
 
+====
+
 #### Special Thanks
 [![jetbrains][99.1]][99]  [![jesseweed][98.1]][98] [![ctf0][97.1]][97]
 
