@@ -4,7 +4,7 @@ set -x
 echo "Parse git log..."
 APP=`git log --oneline -1 | grep "\[" | awk '{print$2}' | sed 's/^\[\(.\+\)\/\(.\+\)\]/\1/g'`
 VERSION=`git log --oneline -1 | grep "\[" | awk '{print$2}' | sed 's/^\[\(.\+\)\/\(.\+\)\]/\2/g'`
-MESSAGE=`git log --oneline -1 | grep "\[" | awk '{$1="";$2="";$3="";$5="";print $0}' | sed 's/^   //g' | sed 's/  / /g'`
+MESSAGE=`git log --oneline -1 | grep "\[" | awk '{$1="";$2="";$3="";$4="";print $0}' | sed 's/^   //g' | sed 's/  / /g'`
 
 if [ $APP ]; then
   JAVA_VERSION=`sudo docker run -ti java java -version | awk 'NR==1 {print$0}'`
