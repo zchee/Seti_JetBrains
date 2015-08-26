@@ -10,7 +10,6 @@ RUN curl -LO http://download.jetbrains.com/objc/AppCode-$APPCODE_VERSION.dmg
 RUN 7z x AppCode-$APPCODE_VERSION.dmg
 RUN 7z x 4.hfs
 
-# RUN cp AppCode/Contents/lib/appcode.jar ./
 RUN mkdir jar
 WORKDIR jar
 RUN jar xf ../AppCode/AppCode.app/Contents/lib/appcode.jar 

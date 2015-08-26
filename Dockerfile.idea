@@ -7,7 +7,6 @@ ENV IDEA_VERSION 142.4245.2
 
 RUN curl -LO https://download.jetbrains.com/idea/ideaIU-$IDEA_VERSION.tar.gz
 RUN tar xf ideaIU-$IDEA_VERSION.tar.gz
-# RUN cd idea-IU-$IDEA_VERSION
 
 RUN cp idea-IU-$IDEA_VERSION/lib/idea.jar ./
 RUN mkdir jar
@@ -18,6 +17,5 @@ RUN curl -L https://raw.githubusercontent.com/zchee/Seti_JetBrains/master/proper
 RUN jar cf ../idea.jar .
 
 WORKDIR /
-RUN ls
 
 CMD ["cat", "idea.jar"]
