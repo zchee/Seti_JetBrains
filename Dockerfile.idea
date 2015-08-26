@@ -3,7 +3,7 @@ MAINTAINER zchee <zcheeee@gmail.com>
 
 RUN java -version
 ENV JAVA_VERSION oracle-java8
-ENV IDEA_VERSION 142.4083.2
+ENV IDEA_VERSION 142.4245.2 
 
 RUN curl -LO https://download.jetbrains.com/idea/ideaIU-$IDEA_VERSION.tar.gz
 RUN tar xf ideaIU-$IDEA_VERSION.tar.gz
