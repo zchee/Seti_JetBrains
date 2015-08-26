@@ -1,0 +1,20 @@
+machine:
+  services:
+    - docker
+
+dependencies:
+  override:
+    - docker info
+    - docker build -t intellij-idea -f Dockerfile.idea .
+
+test:
+  override:
+    - docker run --rm intellij-idea:latest > idea.jar
+    - ls ./idea.jar
+    
+# deployment:
+#   hub:
+#     branch: master
+#     commands:
+#       - docker login -e $DOCKER_EMAIL -u $DOCKER_USER -p $DOCKER_PASS
+#       - docker push circleci/elasticsearch
