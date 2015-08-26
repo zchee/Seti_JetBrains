@@ -8,5 +8,5 @@ echo $APP
 echo $VERSION
 
 docker build -t $APP -f Dockerfile.$APP .
-docker run $APP:latest > theme/$APP/$APP.jar
+docker run $APP:latest > ./$APP.jar
 

@@ -13,6 +13,6 @@ test:
 
 deployment:
   production:
-    branch: circleci
+    branch: master
     commands:
       - ./deploy.sh
