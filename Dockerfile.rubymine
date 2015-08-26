@@ -1,0 +1,21 @@
+FROM java:openjdk-8u66-jdk
+MAINTAINER zchee <zcheeee@gmail.com>
+
+RUN java -version
+ENV JAVA_VERSION oracle-java8
+ENV VERSION 8
+ENV BUILD 142.4083.1 
+
+RUN curl -LO http://download.jetbrains.com/ruby/RubyMine-$BUILD.tar.gz
+RUN tar xf RubyMine-$BUILD.tar.gz 
+
+RUN mkdir jar
+WORKDIR jar
+RUN jar xf ../RubyMine-$BUILD/lib/rubymine.jar
+
+RUN curl -L https://raw.githubusercontent.com/zchee/Seti_JetBrains/master/properties/darcula.properties > ./com/intellij/ide/ui/laf/darcula/darcula.properties
+RUN jar cf ../rubymine.jar .
+
+WORKDIR /
+
+CMD ["cat", "rubymine.jar"]
