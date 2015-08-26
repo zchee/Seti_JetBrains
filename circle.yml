@@ -9,7 +9,7 @@ dependencies:
 
 test:
   override:
-    - docker run --rm intellij-idea:latest > idea.jar
+    - docker run intellij-idea:latest > idea.jar
     - ls ./idea.jar
     
 # deployment:
