@@ -1,10 +1,10 @@
 machine:
   services:
     - docker
+
 dependencies:
   override:
-    - go get github.com/github/hub
-    - go get github.com/github/git-lfs
+    - go get github.com/aktau/github-release 
     - docker info
 
 test:
