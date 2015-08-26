@@ -1,20 +1,18 @@
 machine:
   services:
     - docker
-
 dependencies:
   override:
+    - go get github.com/github/hub
+    - go get github.com/github/git-lfs
     - docker info
-    - docker build -t intellij-idea -f Dockerfile.idea .
 
 test:
   override:
-    - docker run intellij-idea:latest > idea.jar
-    - ls ./idea.jar
-    
-# deployment:
-#   hub:
-#     branch: master
-#     commands:
-#       - docker login -e $DOCKER_EMAIL -u $DOCKER_USER -p $DOCKER_PASS
-#       - docker push circleci/elasticsearch
+    - ./build.sh
+
+deployment:
+  production:
+    branch: circleci
+    commands:
+      - ./deploy.sh
