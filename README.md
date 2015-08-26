@@ -54,15 +54,17 @@ In principle, it supports only the latest Stable or EAP(Early Access Preview) ve
 
 | Application                   | Build       |
 |-------------------------------|-------------|
-| IntelliJ IDEA 15 EAP          | 142.4083.2  |
-| RubyMine EAP                  | 142.4083.1  |
-| PhpStorm 9.0.2                | 141.2462    |
+| IntelliJ IDEA 14.1.4          | 141.1532.4  |
+| IntelliJ IDEA 14.1 EAP        | 141.1192.2  |
+| IntelliJ IDEA 15 EAP          | 142.2670.3  |
+| RubyMine 7.1.2                | 141.1119    |
+| PhpStorm 8.0.3                | 139.1348    |
 | PhpStorm 9 EAP                | 141.1717    |
-| WebStorm 11 EAP               | 142.4148    |
-| AppCode EAP 3.2 RC2           | 141.2456.7  |
+| WebStorm 10.0.3               | 141.1237    |
+| AppCode 3.1.6                 | 139.1401.37 |
+| AppCode EAP 3.2.0             | 141.1399.2  |
 | Android Studio Canary 1.2.1.1 | 141.1903250 |
-| CLion 1.1                     | 141.2348.17 |
-| PyCharm 4.5.4                 | 141.2498    |
+| CLion 1.0.4                   | 141.874.66  |
 
 If you want other ide or old version, please [issues](https://github.com/zchee/Seti_JetBrains/issues).
 
