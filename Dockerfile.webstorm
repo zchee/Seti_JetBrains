@@ -1,0 +1,21 @@
+FROM java:openjdk-8u66-jdk
+MAINTAINER zchee <zcheeee@gmail.com>
+
+RUN java -version
+ENV JAVA_VERSION oracle-java8
+ENV VERSION 11
+ENV BUILD 142.4148
+
+RUN curl -LO http://download.jetbrains.com/webstorm/WebStorm-EAP-$BUILD.tar.gz
+RUN tar xf WebStorm-EAP-$BUILD.tar.gz
+
+RUN mkdir jar
+WORKDIR jar
+RUN jar xf ../WebStorm-$BUILD/lib/webstorm.jar
+
+RUN curl -L https://raw.githubusercontent.com/zchee/Seti_JetBrains/master/properties/darcula.properties > ./com/intellij/ide/ui/laf/darcula/darcula.properties
+RUN jar cf ../webstorm.jar .
+
+WORKDIR /
+
+CMD ["cat", "webstorm.jar"]
