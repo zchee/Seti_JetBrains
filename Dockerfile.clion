@@ -3,9 +3,9 @@ MAINTAINER zchee <zcheeee@gmail.com>
 
 ENV JAVA_VERSION openjdk-8u66-jdk
 ENV APP_NAME clion
-ENV VERSION 1.1
-ENV BUILD 141.2348
-ENV EXTRACT_DIR clion-1.1
+ENV VERSION 1.1.1
+ENV BUILD 141.2614.4
+ENV EXTRACT_DIR clion-1.1.1
 
 RUN curl -LO https://download.jetbrains.com/cpp/$APP_NAME-$VERSION.tar.gz
 RUN tar xf $APP_NAME-$VERSION.tar.gz

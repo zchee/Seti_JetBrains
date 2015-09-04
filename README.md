@@ -61,7 +61,7 @@ In principle, it supports only the latest Stable or EAP(Early Access Preview) ve
 | WebStorm 10.0.3               | 141.1237    |
 | AppCode EAP 3.2 RC2           | 141.2456.7  |
 | Android Studio Canary 1.2.1.1 | 141.1903250 |
-| CLion 1.0.4                   | 141.874.66  |
+| CLion 1.1.1                   | 141.2614.4  |
 
 If you want other ide or old version, please [issues](https://github.com/zchee/Seti_JetBrains/issues).
 
