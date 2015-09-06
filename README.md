@@ -60,12 +60,12 @@ In principle, it supports only the latest Stable or EAP(Early Access Preview) ve
 | PhpStorm 9.0.2                | 141.2462    |
 | PhpStorm 9.5 EAP              | 142.4491    |
 | WebStorm 10.0.4               | 141.1550    |
-| WebStorm 11                   | 142.4148    |
-| AppCode EAP 3.2 RC2           | 141.2456.7  |
-| Android Studio Canary 1.2.1.1 | 141.1903250 |
-| CLion 1.1.1                   | 141.2614.4  |
+| WebStorm EAP 11               | 142.4148    |
 | PyCharm 4.5.4                 | 141.2569    |
 | PyCharm EAP 4.5.4             | 141.2569    |
+| AppCode EAP 3.2 RC2           | 141.2456.7  |
+| Android Studio Canary 1.3.2   | 141.2178183 |
+| CLion 1.1.1                   | 141.2614.4  |
 
 If you want other ide or old version, please [issues](https://github.com/zchee/Seti_JetBrains/issues).
 
