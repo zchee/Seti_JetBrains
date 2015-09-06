@@ -20,7 +20,7 @@ It is naive English, but please acknowledge.
 
 but, I prefer the discussion.
 JetBrains is a good product, but it is occlusive to the theme.  
-Let's easy to use the JetBrains everyone. [Issues page](https://github.com/zchee/Seti_JetBrains/issues).
+Let's easy to use the JetBrains everyone. [Issues page](https://github.com/zchee/Seti_JeWebStorm-142.4148tBrains/issues).
 
 **I'm awakening at anytime.** Please feel free to question and discuss!  
 [![twitter][1.1]][1]  [![github][2.1]][2]  [![google][3.1]][3]
@@ -58,7 +58,7 @@ In principle, it supports only the latest Stable or EAP(Early Access Preview) ve
 | RubyMine 7.1.2                | 141.1119    |
 | PhpStorm 8.0.3                | 139.1348    |
 | PhpStorm 9 EAP                | 141.1717    |
-| WebStorm 10.0.3               | 141.1237    |
+| WebStorm 10.0.4               | 141.1550    |
 | WebStorm 11                   | 142.4148    |
 | AppCode EAP 3.2 RC2           | 141.2456.7  |
 | Android Studio Canary 1.2.1.1 | 141.1903250 |
