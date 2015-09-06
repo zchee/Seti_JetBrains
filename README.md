@@ -54,7 +54,7 @@ In principle, it supports only the latest Stable or EAP(Early Access Preview) ve
 
 | Application                   | Build       |
 |-------------------------------|-------------|
-| IntelliJ IDEA 15 EAP          | 142.4083.2  |
+| IntelliJ IDEA 15 EAP          | 142.4465.2  |
 | RubyMine 7.1.2                | 141.1119    |
 | PhpStorm 8.0.3                | 139.1348    |
 | PhpStorm 9 EAP                | 141.1717    |
