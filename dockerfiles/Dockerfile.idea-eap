@@ -4,7 +4,7 @@ MAINTAINER zchee <zcheeee@gmail.com>
 ENV JAVA_VERSION openjdk-8u66-jdk
 ENV APP_NAME idea-eap
 ENV VERSION 15
-ENV BUILD 142.4465.2
+ENV BUILD 142.4675.3
 
 RUN curl -LO https://download.jetbrains.com/idea/ideaIU-$BUILD.tar.gz
 RUN tar xf ideaIU-$BUILD.tar.gz
