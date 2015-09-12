@@ -76,7 +76,7 @@ If you want other ide or old version, please [issues](https://github.com/zchee/S
 ### Important
 You must replace this files or move original files in another folder, in other way ide will use renamed files in lib folders.
 
-### Syntax
+### Color Syntax icls file
 Move [Seti_JB.icls](syntax/Seti_JB.icls) to
 
 Platform | Folder path
@@ -87,12 +87,17 @@ Windows | `~\JetBrains\.IntelliJIDEA14\config\colors` or `~\.WebIde80\config\col
 ====
 
 ### Theme
+Theme jar is now moved to the github release.  
+jar is too fat.
+
+See https://github.com/zchee/Seti_JetBrains/releases  
+If you want other ide or old version, please [issues](https://github.com/zchee/Seti_JetBrains/issues).
 
 > #### Intellij IDEA
 
-1. Select your platform `idea.jar` in [idea](https://github.com/zchee/Seti_JetBrains/tree/master/theme/idea).
+ 1. Download `idea.jar` in [Release](https://github.com/zchee/Seti_JetBrains/releases).
 
-2. Replace `idea.jar` to
+ 2. Replace `idea.jar` to
 
 Platform | Folder path
 -------- | -----------
@@ -103,7 +108,7 @@ Windows | `C:\Program Files (x86)\JetBrains\IntelliJ IDEA xxx\lib\`
 
 > #### PhpStorm
 
- 1. Select your platform `phpstorm.jar` in [phpstorm](https://github.com/zchee/Seti_JetBrains/tree/master/theme/phpstorm).
+ 1. Download `phpstorm.jar` in [Release](https://github.com/zchee/Seti_JetBrains/releases).
 
  2. Replace `phpstorm.jar` to
 
@@ -116,7 +121,7 @@ Windows | `C:\Program Files (x86)\JetBrains\IntelliJ IDEA xxx\lib\`
 
 > #### WebStorm
 
- 1. Select your platform `webstorm.jar` in [webstorm](https://github.com/zchee/Seti_JetBrains/tree/master/theme/webstorm).
+ 1. Download `webstorm.jar` in [Release](https://github.com/zchee/Seti_JetBrains/releases).
 
  2. Replace `webstorm.jar` to
 
@@ -129,7 +134,7 @@ Windows | `C:\Program Files (x86)\JetBrains\IntelliJ IDEA xxx\lib\`
 
 > #### RubyMine
 
- 1. Select your platform `rubymine.jar` in [rubymine](https://github.com/zchee/Seti_JetBrains/tree/master/theme/rubymine).
+ 1. Download `rubymine.jar` in [Release](https://github.com/zchee/Seti_JetBrains/releases). 
 
  2. Replace `rubymine.jar` to
 
@@ -218,3 +223,4 @@ See [CONTRIBUTING.md](https://github.com/zchee/Seti_JetBrains/blob/master/CONTRI
 [99.1]: http://s3.zchee.io/images/devicon/128/jetbrains/jetbrains-original.svg (JetBrains by konpa/devicon)
 [98.1]: https://github.com/jesseweed/seti-syntax/raw/master/_icons/rounded/rounded-128x128.png (by jesseweed)
 [97.1]: https://avatars0.githubusercontent.com/u/7388088?v=3&s=128 (by ctf0)
+
