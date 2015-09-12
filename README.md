@@ -52,21 +52,21 @@ https://www.youtube.com/watch?v=0uP6jUA7tNA
 ### Applications version
 In principle, it supports only the latest Stable or EAP(Early Access Preview) version.
 
-| Application                   | Build       |
-|-------------------------------|-------------|
-| [IntelliJ IDEA 15 EAP](https://confluence.jetbrains.com/display/IDEADEV/IDEA+15+EAP)          | 142.4675.3  |
-| [RubyMine 7.1.4](https://www.jetbrains.com/ruby/download/)                | 141.1835    |
-| [RubyMine EAP 8](https://confluence.jetbrains.com/display/RUBYDEV/RubyMine+EAP)                | 142.4465.6  |
-| [PhpStorm 9.0.2](https://www.jetbrains.com/phpstorm/download/)                | 141.2462    |
-| [PhpStorm 9.5 EAP](https://confluence.jetbrains.com/display/PhpStorm/PhpStorm+Early+Access+Program)              | 142.4491    |
-| [WebStorm 10.0.4](https://www.jetbrains.com/webstorm/download/)               | 141.1550    |
-| [WebStorm EAP 11](https://confluence.jetbrains.com/display/WI/WebStorm+EAP)               | 142.4148    |
-| [PyCharm 4.5.4](https://www.jetbrains.com/pycharm/download/)                 | 141.2569    |
-| [PyCharm EAP 4.5.4](https://confluence.jetbrains.com/pages/viewpage.action?pageId=23004355)             | 141.2569    |
-| [AppCode EAP 3.3](https://confluence.jetbrains.com/display/OBJC/AppCode+EAP)           | 142.4675.7  |
-| [Android Studio Beta Channel 1.3.2](http://tools.android.com/download/studio/beta)   | 141.2178183 |
-| [CLion 1.1.1](https://www.jetbrains.com/clion/download/)                   | 141.2614.4  |
-| [CLion 1.2](https://confluence.jetbrains.com/display/CLION/Early+Access+Program)                   | 142.4675.5  |
+| Application                                                                                         | Build       |
+|-----------------------------------------------------------------------------------------------------|-------------|
+| [IntelliJ IDEA 15 EAP](https://confluence.jetbrains.com/display/IDEADEV/IDEA+15+EAP)                | 142.4675.3  |
+| [RubyMine 7.1.4](https://www.jetbrains.com/ruby/download/)                                          | 141.1835    |
+| [RubyMine EAP 8](https://confluence.jetbrains.com/display/RUBYDEV/RubyMine+EAP)                     | 142.4465.6  |
+| [PhpStorm 9.0.2](https://www.jetbrains.com/phpstorm/download/)                                      | 141.2462    |
+| [PhpStorm 9.5 EAP](https://confluence.jetbrains.com/display/PhpStorm/PhpStorm+Early+Access+Program) | 142.4491    |
+| [WebStorm 10.0.4](https://www.jetbrains.com/webstorm/download/)                                     | 141.1550    |
+| [WebStorm EAP 11](https://confluence.jetbrains.com/display/WI/WebStorm+EAP)                         | 142.4148    |
+| [PyCharm 4.5.4](https://www.jetbrains.com/pycharm/download/)                                        | 141.2569    |
+| [PyCharm EAP 4.5.4](https://confluence.jetbrains.com/pages/viewpage.action?pageId=23004355)         | 141.2569    |
+| [AppCode EAP 3.3](https://confluence.jetbrains.com/display/OBJC/AppCode+EAP)                        | 142.4675.7  |
+| [Android Studio Beta Channel 1.3.2](http://tools.android.com/download/studio/beta)                  | 141.2178183 |
+| [CLion 1.1.1](https://www.jetbrains.com/clion/download/)                                            | 141.2614.4  |
+| [CLion 1.2](https://confluence.jetbrains.com/display/CLION/Early+Access+Program)                    | 142.4675.5  |
 
 If you want other ide or old version, please [issues](https://github.com/zchee/Seti_JetBrains/issues).
 
