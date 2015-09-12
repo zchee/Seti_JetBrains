@@ -63,7 +63,7 @@ In principle, it supports only the latest Stable or EAP(Early Access Preview) ve
 | [WebStorm EAP 11](https://confluence.jetbrains.com/display/WI/WebStorm+EAP)               | 142.4148    |
 | [PyCharm 4.5.4](https://www.jetbrains.com/pycharm/download/)                 | 141.2569    |
 | [PyCharm EAP 4.5.4](https://confluence.jetbrains.com/pages/viewpage.action?pageId=23004355)             | 141.2569    |
-| [AppCode EAP 3.2 RC2](https://confluence.jetbrains.com/display/OBJC/AppCode+EAP)           | 141.2456.7  |
+| [AppCode EAP 3.3](https://confluence.jetbrains.com/display/OBJC/AppCode+EAP)           | 142.4675.7  |
 | [Android Studio Beta Channel](http://tools.android.com/download/studio/beta) 1.3.2   | 141.2178183 |
 | [CLion 1.1.1](https://confluence.jetbrains.com/display/CLION/Early+Access+Program)                   | 141.2614.4  |
 
