@@ -56,7 +56,7 @@ In principle, it supports only the latest Stable or EAP(Early Access Preview) ve
 |-------------------------------|-------------|
 | [IntelliJ IDEA 15 EAP](https://confluence.jetbrains.com/display/IDEADEV/IDEA+15+EAP)          | 142.4675.3  |
 | [RubyMine 7.1.4](https://www.jetbrains.com/ruby/download/)                | 141.1835    |
-| [RubyMine EAP 8](https://confluence.jetbrains.com/display/RUBYDEV/RubyMine+EAP)                | 142.4245.2  |
+| [RubyMine EAP 8](https://confluence.jetbrains.com/display/RUBYDEV/RubyMine+EAP)                | 142.4465.6  |
 | [PhpStorm 9.0.2](https://www.jetbrains.com/phpstorm/download/)                | 141.2462    |
 | [PhpStorm 9.5 EAP](https://confluence.jetbrains.com/display/PhpStorm/PhpStorm+Early+Access+Program)              | 142.4491    |
 | [WebStorm 10.0.4](https://www.jetbrains.com/webstorm/download/)               | 141.1550    |
