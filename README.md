@@ -40,7 +40,7 @@ Tentatively
 
 ## Screencast
 
-[![](https://raw.githubusercontent.com/zchee/Seti_JetBrains/master/screenshot/screencast.png)](https://youtu.be/0uP6jUA7tNA)
+[![](https://raw.githubusercontent.com/zchee/Seti_JetBrains/master/screenshot/screencast.png)](https://www.youtube.com/watch?v=0uP6jUA7tNA)
 https://www.youtube.com/watch?v=0uP6jUA7tNA
 
 ## Environment
@@ -76,6 +76,9 @@ If you want other ide or old version, please [issues](https://github.com/zchee/S
 
 ### Important
 You must replace this files or move original files in another folder, in other way ide will use renamed files in lib folders.
+
+### Self build use Docker
+[![](https://raw.githubusercontent.com/zchee/Seti_JetBrains/master/images/self-build-use-docker.png)](https://www.youtube.com/watch?v=5sH3Yjg9aec)
 
 ### Color Syntax icls file
 Move [Seti_JB.icls](syntax/Seti_JB.icls) to
