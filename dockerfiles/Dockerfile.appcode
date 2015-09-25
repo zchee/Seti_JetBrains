@@ -3,7 +3,7 @@ MAINTAINER zchee <zcheeee@gmail.com>
 
 RUN java -version
 ENV JAVA_VERSION oracle-java8
-ENV APPCODE_VERSION 142.4675.7
+ENV APPCODE_VERSION 142.4859.15
 
 RUN apt-get update && apt-get -y install p7zip-full
 RUN curl -LO http://download.jetbrains.com/objc/AppCode-$APPCODE_VERSION-custom-jdk-bundled.dmg
