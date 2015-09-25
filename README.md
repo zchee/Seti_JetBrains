@@ -36,11 +36,11 @@ Let's easy to use the JetBrains everyone. [Issues page](https://github.com/zchee
 ## Screenshot
 Tentatively
 
-![](https://raw.githubusercontent.com/zchee/Seti_JetBrains/master/screenshot/all.png)
+![](https://raw.githubusercontent.com/zchee/Seti_JetBrains/master/images/all.png)
 
 ## Screencast
 
-[![](https://raw.githubusercontent.com/zchee/Seti_JetBrains/master/screenshot/screencast.png)](https://www.youtube.com/watch?v=0uP6jUA7tNA)
+[![](https://raw.githubusercontent.com/zchee/Seti_JetBrains/master/images/screencast.png)](https://www.youtube.com/watch?v=0uP6jUA7tNA)
 https://www.youtube.com/watch?v=0uP6jUA7tNA
 
 ## Environment
