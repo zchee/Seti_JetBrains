@@ -66,7 +66,7 @@ In principle, it supports only the latest Stable or EAP(Early Access Preview) ve
 | [AppCode EAP 3.3](https://confluence.jetbrains.com/display/OBJC/AppCode+EAP)                        | 142.4675.7  |
 | [Android Studio Beta Channel 1.3.2](http://tools.android.com/download/studio/beta)                  | 141.2178183 |
 | [CLion 1.1.1](https://www.jetbrains.com/clion/download/)                                            | 141.2614.4  |
-| [CLion 1.2](https://confluence.jetbrains.com/display/CLION/Early+Access+Program)                    | 142.4675.5  |
+| [CLion 1.2](https://confluence.jetbrains.com/display/CLION/Early+Access+Program)                    | 143.249.8   |
 
 If you want other ide or old version, please [issues](https://github.com/zchee/Seti_JetBrains/issues).
 
