@@ -60,7 +60,7 @@ In principle, it supports only the latest Stable or EAP(Early Access Preview) ve
 | [PhpStorm 9.0.2](https://www.jetbrains.com/phpstorm/download/)                                      | 141.2462    |
 | [PhpStorm 9.5 EAP](https://confluence.jetbrains.com/display/PhpStorm/PhpStorm+Early+Access+Program) | 142.4491    |
 | [WebStorm 10.0.4](https://www.jetbrains.com/webstorm/download/)                                     | 141.1550    |
-| [WebStorm EAP 11](https://confluence.jetbrains.com/display/WI/WebStorm+EAP)                         | 142.4148    |
+| [WebStorm EAP 11](https://confluence.jetbrains.com/display/WI/WebStorm+EAP)                         | 143.1183.13 |
 | [PyCharm 4.5.4](https://www.jetbrains.com/pycharm/download/)                                        | 141.2569    |
 | [PyCharm EAP 4.5.4](https://confluence.jetbrains.com/pages/viewpage.action?pageId=23004355)         | 141.2569    |
 | [AppCode EAP 3.3](https://confluence.jetbrains.com/display/OBJC/AppCode+EAP)                        | 142.4675.7  |

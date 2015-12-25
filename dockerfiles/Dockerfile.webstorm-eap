@@ -4,7 +4,7 @@ MAINTAINER zchee <zcheeee@gmail.com>
 ENV JAVA_VERSION openjdk-8u66-jdk
 ENV APP_NAME webstorm
 ENV VERSION 11
-ENV BUILD 142.4148
+ENV BUILD 143.1183.13
 
 RUN curl -LO http://download.jetbrains.com/webstorm/WebStorm-EAP-$BUILD.tar.gz
 RUN tar xf WebStorm-EAP-$BUILD.tar.gz
