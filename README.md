@@ -58,7 +58,7 @@ In principle, it supports only the latest Stable or EAP(Early Access Preview) ve
 | [RubyMine 7.1.4](https://www.jetbrains.com/ruby/download/)                                          | 141.1835    |
 | [RubyMine EAP 8](https://confluence.jetbrains.com/display/RUBYDEV/RubyMine+EAP)                     | 142.4465.6  |
 | [PhpStorm 9.0.2](https://www.jetbrains.com/phpstorm/download/)                                      | 141.2462    |
-| [PhpStorm 9.5 EAP](https://confluence.jetbrains.com/display/PhpStorm/PhpStorm+Early+Access+Program) | 142.4491    |
+| [PhpStorm 10 EAP](https://confluence.jetbrains.com/display/PhpStorm/PhpStorm+Early+Access+Program)  | 143.1480    |
 | [WebStorm 11.0.3](https://www.jetbrains.com/webstorm/download/)                                     | 143.1559    |
 | [WebStorm EAP 11](https://confluence.jetbrains.com/display/WI/WebStorm+EAP)                         | 143.1183.13 |
 | [PyCharm 4.5.4](https://www.jetbrains.com/pycharm/download/)                                        | 141.2569    |
